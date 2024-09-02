@@ -1,0 +1,3320 @@
+[
+  {
+    "title": "Spaghetti Carbonara",
+    "totalTime": 25,
+    "rating": 4.2,
+    "image": "https://i.ibb.co/7VZn6PG/spaghetticarbonara.png",
+    "imageType": "jpg",
+    "description": "Un classique italien crémeux et savoureux.",
+    "kcal": 600,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Spaghetti",
+        "instructions": [
+          "Remplissez une grande casserole d'eau, ajoutez une pincée de sel et portez à ébullition.",
+          "Ajoutez les 400g de spaghetti et faites cuire selon les instructions du paquet (environ 8-10 minutes) jusqu'à ce qu'ils soient al dente.",
+          "Égouttez les pâtes en réservant une tasse d'eau de cuisson."
+        ]
+      },
+      {
+        "title": "Lardons",
+        "instructions": [
+          "Pendant que les pâtes cuisent, chauffez une poêle à feu moyen.",
+          "Ajoutez les 200g de lardons et faites-les revenir jusqu'à ce qu'ils soient croustillants et dorés (environ 5-7 minutes).",
+          "Une fois cuits, retirez la poêle du feu mais laissez les lardons dans la poêle."
+        ]
+      },
+      {
+        "title": "Carbonara",
+        "instructions": [
+          "Dans un bol, cassez les 4 œufs et battez-les légèrement.",
+          "Ajoutez les 100g de parmesan râpé et mélangez bien pour obtenir une sauce homogène."
+        ]
+      },
+      {
+        "title": "Assemblage",
+        "instructions": [
+          "Remettez la poêle avec les lardons sur feu doux.",
+          "Ajoutez les pâtes égouttées dans la poêle et mélangez bien pour les enrober de gras des lardons.",
+          "Retirez la poêle du feu et ajoutez immédiatement le mélange œufs-parmesan en remuant constamment pour que les œufs cuisent légèrement avec la chaleur résiduelle des pâtes sans devenir brouillés."
+        ]
+      },
+      {
+        "title": "Service",
+        "instructions": [
+          "Si la sauce est trop épaisse, ajoutez un peu de l'eau de cuisson des pâtes réservée pour l'éclaircir.",
+          "Assaisonnez généreusement avec du poivre frais moulu.",
+          "Servez immédiatement vos Spaghetti Carbonara dans des assiettes chaudes.",
+          "Garnissez éventuellement de parmesan supplémentaire et d'un peu de poivre."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Spaghetti",
+        "image": "https://i.ibb.co/0BRSk8H/pates-spaguetti.png",
+        "quantity": "400g"
+      },
+      {
+        "name": "Lardons",
+        "image": "https://i.ibb.co/sshvs1w/lardon.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Parmesan",
+        "image": "https://i.ibb.co/HDyTcw9/parmesan-cheese.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Oeufs",
+        "image": "https://i.ibb.co/Jq6n3wR/egg.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Omelette aux Champignons",
+    "totalTime": 10,
+    "rating": 4.1,
+    "image": "https://i.ibb.co/Tmvjhhs/omelette-champi.png",
+    "imageType": "jpg",
+    "description": "Une omelette rapide et facile, parfaite pour le petit-déjeuner ou le dîner.",
+    "kcal": 250,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Oeufs",
+        "instructions": [
+          "Cassez les 4 œufs dans un bol.",
+          "Ajoutez une pincée de sel et de poivre.",
+          "Battez les œufs avec un fouet jusqu'à obtenir un mélange homogène et légèrement mousseux."
+        ]
+      },
+      {
+        "title": "Champignons",
+        "instructions": [
+          "Nettoyez les 200g de champignons et tranchez-les finement.",
+          "Faites chauffer la poêle à feu moyen et ajoutez 15g de beurre.",
+          "Lorsque le beurre est fondu et commence à mousser, ajoutez les champignons tranchés.",
+          "Faites revenir les champignons jusqu'à ce qu'ils soient dorés et tendres (environ 3-4 minutes).",
+          "Retirez les champignons de la poêle et réservez-les sur une assiette."
+        ]
+      },
+      {
+        "title": "Omelette",
+        "instructions": [
+          "Dans la même poêle, ajoutez les 15g restants de beurre et faites-le fondre à feu moyen.",
+          "Versez les œufs battus dans la poêle chaude.",
+          "Laissez les œufs cuire sans remuer jusqu'à ce que les bords commencent à prendre (environ 1-2 minutes).",
+          "Répartissez uniformément les champignons cuits sur une moitié de l'omelette.",
+          "À l'aide d'une spatule, pliez l'autre moitié de l'omelette sur les champignons.",
+          "Laissez cuire encore 1 à 2 minutes jusqu'à ce que l'omelette soit bien cuite mais encore légèrement crémeuse à l'intérieur."
+        ]
+      },
+      {
+        "title": "Service",
+        "instructions": [
+          "Glissez l'omelette sur une assiette.",
+          "Servez immédiatement, éventuellement avec un peu de persil haché ou de fromage râpé en garniture."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Oeufs",
+        "image": "https://i.ibb.co/Jq6n3wR/egg.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Champignons",
+        "image": "https://i.ibb.co/M9c80FD/mushroom.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "30g"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      },
+      {
+        "image": "",
+        "name": "Fouet"
+      }
+    ]
+  },
+  {
+    "title": "Soupe de Tomates",
+    "totalTime": 30,
+    "rating": 4.3,
+    "image": "https://i.ibb.co/wy97gp0/soupetomate-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Une soupe réconfortante et facile à préparer.",
+    "kcal": 150,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Préparation des ingrédients",
+        "instructions": [
+          "Épluchez et hachez finement les 2 oignons.",
+          "Épluchez et écrasez les 2 gousses d'ail.",
+          "Lavez les 500g de tomates, retirez le pédoncule et coupez-les en quartiers."
+        ]
+      },
+      {
+        "title": "Faire revenir les oignons",
+        "instructions": [
+          "Faites chauffer 2 cuillères à soupe d'huile d'olive dans une grande casserole à feu moyen.",
+          "Ajoutez les oignons hachés et faites-les revenir jusqu'à ce qu'ils soient translucides (environ 5 minutes).",
+          "Ajoutez l'ail écrasé et faites revenir encore 1 minute."
+        ]
+      },
+      {
+        "title": "Ajouter les tomates et le bouillon",
+        "instructions": [
+          "Ajoutez les tomates coupées en quartiers dans la casserole.",
+          "Versez les 500ml de bouillon de légumes.",
+          "Portez à ébullition, puis réduisez le feu et laissez mijoter pendant environ 20 minutes, jusqu'à ce que les tomates soient bien tendres."
+        ]
+      },
+      {
+        "title": "Mixer la soupe",
+        "instructions": [
+          "Retirez la casserole du feu.",
+          "Utilisez un mixeur plongeant pour mixer la soupe jusqu'à obtenir une consistance lisse. Vous pouvez aussi utiliser un mixeur traditionnel en mixant par petites quantités.",
+          "Assaisonnez la soupe avec du sel et du poivre à goût.",
+          "Remettez la soupe sur feu doux et laissez mijoter encore 5 minutes."
+        ]
+      },
+      {
+        "title": "Service",
+        "instructions": [
+          "Versez la soupe dans des bols.",
+          "Garnissez avec du basilic frais à goût.",
+          "Servez chaud, accompagné éventuellement de croûtons ou de pain frais."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Tomates",
+        "image": "https://i.ibb.co/xsvbwNd/tomatoes.png",
+        "quantity": "500g"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Bouillon de légumes",
+        "image": "https://i.ibb.co/JxvHBg9/cube-bouillon-legume.png",
+        "quantity": "500ml"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Basilic",
+        "image": "https://i.ibb.co/x27K3Nk/basilic.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Mixeur"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Gratin de Pommes de Terre",
+    "totalTime": 60,
+    "rating": 4.5,
+    "image": "https://i.ibb.co/PZpF17d/gratin-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Un gratin crémeux et délicieux, parfait pour accompagner un plat principal.",
+    "kcal": 400,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Pommes de terre",
+        "instructions": [
+          "Éplucher et trancher les pommes de terre",
+          "Épluchez 1kg de pommes de terre avec un économe.",
+          "Rincez-les sous l'eau froide pour enlever l'excès d'amidon.",
+          "Tranchez-les en fines rondelles (environ 3-4 mm d'épaisseur) à l'aide d'un couteau ou d'une mandoline pour une coupe uniforme."
+        ]
+      },
+      {
+        "title": "Béchamel",
+        "instructions": [
+          "Préparer la sauce béchamel",
+          "Faites fondre 50g de beurre dans une casserole à feu moyen.",
+          "Ajoutez 50g de farine et mélangez bien avec un fouet pour former un roux.",
+          "Laissez cuire le roux pendant 2-3 minutes en remuant constamment pour éliminer le goût de la farine crue, mais sans le laisser brunir.",
+          "Versez progressivement 500ml de lait tout en continuant de fouetter pour éviter la formation de grumeaux.",
+          "Laissez mijoter la sauce à feu doux jusqu'à ce qu'elle épaississe (environ 5 minutes).",
+          "Assaisonnez avec du sel, du poivre et une pincée de noix de muscade râpée si désiré."
+        ]
+      },
+      {
+        "title": "Gratin",
+        "instructions": [
+          "Préchauffez votre four à 180°C (350°F).",
+          "Beurrez légèrement un plat à gratin.",
+          "Disposez une couche de rondelles de pommes de terre au fond du plat.",
+          "Versez une partie de la sauce béchamel sur les pommes de terre.",
+          "Répétez les couches de pommes de terre et de sauce béchamel jusqu'à épuisement des ingrédients, en terminant par une couche de sauce.",
+          "Saupoudrez uniformément 200g de fromage râpé sur le dessus du gratin."
+        ]
+      },
+      {
+        "title": "Cuisson",
+        "instructions": [
+          "Placez le plat à gratin au milieu du four préchauffé.",
+          "Laissez cuire pendant environ 40-45 minutes ou jusqu'à ce que les pommes de terre soient tendres et que le dessus soit doré et croustillant.",
+          "Si le dessus dore trop rapidement, vous pouvez couvrir le plat avec du papier aluminium pendant la cuisson."
+        ]
+      },
+      {
+        "title": "Service",
+        "instructions": [
+          "Laissez reposer le gratin quelques minutes avant de le servir pour permettre à la sauce de se stabiliser.",
+          "Servez chaud en accompagnement de votre plat principal préféré."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Pommes de terre",
+        "image": "https://i.ibb.co/CKhbB3q/potato.png",
+        "quantity": "1kg"
+      },
+      {
+        "name": "Lait",
+        "image": "https://i.ibb.co/7QHVn75/lait.png",
+        "quantity": "500ml"
+      },
+      {
+        "name": "Fromage râpé",
+        "image": "https://i.ibb.co/YBZs4T1/fromage-rape.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Farine",
+        "image": "https://i.ibb.co/ypG9trh/farine.png",
+        "quantity": "50g"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/6HSJ64T/plat-a-grattin.png",
+        "name": "Plat à gratin"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "",
+        "name": "Fouet"
+      }
+    ]
+  },
+  {
+    "title": "Poulet Rôti",
+    "totalTime": 90,
+    "rating": 4.6,
+    "image": "https://i.ibb.co/cDzsgrx/pouletroti-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Un poulet rôti juteux et savoureux, parfait pour un repas de famille.",
+    "kcal": 500,
+    "difficulty": "Moyen",
+    "step": [
+      {
+        "title": "Préparer le poulet",
+        "instructions": [
+          "Préchauffez votre four à 200°C (400°F).",
+          "Sortez le poulet de son emballage et rincez-le à l'eau froide, à l'intérieur et à l'extérieur. Séchez-le bien avec du papier absorbant.",
+          "Si nécessaire, retirez les abats du poulet. Vous pouvez les conserver pour une autre utilisation ou les jeter."
+        ]
+      },
+      {
+        "title": "Assaisonner",
+        "instructions": [
+          "Placez le poulet sur une planche à découper.",
+          "Avec un couteau, faites des incisions peu profondes sur la peau du poulet, surtout autour des cuisses et des poitrines, pour permettre aux assaisonnements de pénétrer.",
+          "Salez et poivrez généreusement l'intérieur et l'extérieur du poulet.",
+          "Saupoudrez les herbes de Provence à l'intérieur et à l'extérieur du poulet à goût.",
+          "Faites fondre 50g de beurre et utilisez un pinceau de cuisine pour badigeonner le poulet entier avec le beurre fondu. Cela aidera à obtenir une peau dorée et croustillante."
+        ]
+      },
+      {
+        "title": "Rôtir au four",
+        "instructions": [
+          "Placez le poulet dans un plat à rôtir, poitrine vers le haut. Si vous le souhaitez, vous pouvez attacher les pattes avec de la ficelle de cuisine pour une cuisson plus uniforme.",
+          "Mettez le plat à rôtir au four préchauffé.",
+          "Faites rôtir le poulet pendant environ 1 heure 15 minutes (75 minutes). Arrosez le poulet avec son jus toutes les 20-30 minutes pour le garder humide.",
+          "Pour vérifier si le poulet est bien cuit, insérez un thermomètre à viande dans la partie la plus épaisse de la cuisse sans toucher l'os. La température interne doit atteindre 75°C (165°F).",
+          "Si le poulet n'est pas encore à température, continuez à rôtir en vérifiant toutes les 10 minutes."
+        ]
+      },
+      {
+        "title": "Servir",
+        "instructions": [
+          "Sortez le poulet du four et laissez-le reposer pendant environ 10 minutes avant de le découper. Cela permet aux jus de se redistribuer dans la viande, la rendant plus juteuse.",
+          "Découpez le poulet en portions et servez avec vos accompagnements préférés."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Poulet",
+        "image": "https://i.ibb.co/7JC2YL9/chicken.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Herbes de Provence",
+        "image": "https://i.ibb.co/2Z7yh32/herbs-of-provence.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "50g"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/FhpkGpw/plat-rotir.png",
+        "name": "Plat à rôtir"
+      },
+      {
+        "image": "https://i.ibb.co/b2JQWR5/pinceau-de-cuisine.png",
+        "name": "Pinceau de cuisine"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Ratatouille",
+    "totalTime": 40,
+    "rating": 4.4,
+    "image": "https://i.ibb.co/FwKxvg4/ratatouille-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Un mélange de légumes mijotés, typique de la cuisine provençale.",
+    "kcal": 200,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Préparation des légumes",
+        "instructions": [
+          "Lavez les courgettes, les aubergines, les poivrons et les tomates.",
+          "Coupez les courgettes et les aubergines en rondelles.",
+          "Épépinez les poivrons et coupez-les en lanières.",
+          "Coupez les tomates en quartiers.",
+          "Épluchez et hachez les oignons et l'ail."
+        ]
+      },
+      {
+        "title": "Faire revenir les oignons",
+        "instructions": [
+          "Faites chauffer 25ml d'huile d'olive dans une grande poêle à feu moyen.",
+          "Ajoutez les oignons hachés et faites-les revenir jusqu'à ce qu'ils deviennent translucides (environ 5 minutes).",
+          "Ajoutez l'ail haché et faites revenir encore 1 minute."
+        ]
+      },
+      {
+        "title": "Ajouter les légumes et mijoter",
+        "instructions": [
+          "Ajoutez les poivrons dans la poêle et faites-les revenir pendant environ 5 minutes, jusqu'à ce qu'ils commencent à ramollir.",
+          "Ajoutez ensuite les aubergines et les courgettes, mélangez bien, et faites revenir pendant encore 10 minutes.",
+          "Ajoutez les tomates, le thym, le basilic, le sel et le poivre à goût.",
+          "Versez le reste de l'huile d'olive (25ml) et mélangez bien.",
+          "Réduisez le feu à doux, couvrez la poêle et laissez mijoter pendant environ 20 minutes, en remuant de temps en temps, jusqu'à ce que tous les légumes soient tendres."
+        ]
+      },
+      {
+        "title": "Service",
+        "instructions": [
+          "Goûtez et ajustez l'assaisonnement si nécessaire.",
+          "Servez chaud, accompagné de riz, de pâtes ou de pain frais."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Courgettes",
+        "image": "https://i.ibb.co/B3t5pCV/zuccichini-courgette.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Aubergines",
+        "image": "https://i.ibb.co/q7cn55Z/eggplant.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Poivrons",
+        "image": "https://i.ibb.co/JtS7qYg/bell-pepper.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Tomates",
+        "image": "https://i.ibb.co/xsvbwNd/tomatoes.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "50ml"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Thym",
+        "image": "https://i.ibb.co/wpzYYLD/thyme.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Basilic",
+        "image": "https://i.ibb.co/x27K3Nk/basilic.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      }
+    ]
+  },
+  {
+    "title": "Quiche Lorraine",
+    "totalTime": 45,
+    "rating": 4.3,
+    "image": "https://i.ibb.co/XppFWT0/quicheloraine-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Une quiche classique avec des lardons et du fromage.",
+    "kcal": 400,
+    "difficulty": "Moyen",
+    "step": [
+      {
+        "title": "Pâte brisée",
+        "instructions": [
+          "Préchauffez votre four à 180°C (350°F).",
+          "Si vous utilisez une pâte brisée du commerce, sortez-la du réfrigérateur et laissez-la à température ambiante pendant 10 minutes.",
+          "Étalez la pâte brisée sur un plan de travail légèrement fariné avec un rouleau à pâtisserie, si nécessaire.",
+          "Placez la pâte dans le moule à tarte en la pressant bien contre les bords et le fond. Piquez le fond de la pâte avec une fourchette pour éviter qu'elle ne gonfle à la cuisson.",
+          "Précuisez la pâte à blanc pendant environ 10 minutes dans le four préchauffé. Pour ce faire, placez un papier parchemin sur la pâte et ajoutez des poids de cuisson (comme des haricots secs ou du riz)."
+        ]
+      },
+      {
+        "title": "Faire revenir les lardons",
+        "instructions": [
+          "Pendant que la pâte précuit, faites chauffer une poêle à feu moyen.",
+          "Ajoutez les lardons et faites-les revenir jusqu'à ce qu'ils soient dorés et croustillants, environ 5 à 7 minutes.",
+          "Égouttez les lardons sur du papier absorbant pour éliminer l'excès de graisse."
+        ]
+      },
+      {
+        "title": "Mélanger les oeufs et la crème",
+        "instructions": [
+          "Dans un bol, cassez les oeufs et battez-les avec un fouet.",
+          "Ajoutez la crème fraîche et continuez à fouetter jusqu'à obtenir un mélange homogène.",
+          "Ajoutez le fromage râpé, salez et poivrez à goût. Mélangez bien."
+        ]
+      },
+      {
+        "title": "Cuire au four",
+        "instructions": [
+          "Sortez la pâte précuite du four et retirez les poids de cuisson et le papier parchemin.",
+          "Répartissez les lardons de manière uniforme sur le fond de tarte.",
+          "Versez le mélange d'oeufs, de crème et de fromage sur les lardons.",
+          "Remettez la quiche dans le four et faites cuire pendant environ 25 à 30 minutes, ou jusqu'à ce que le dessus soit doré et que la garniture soit prise.",
+          "Pour vérifier la cuisson, insérez la pointe d'un couteau au centre de la quiche; elle doit en ressortir propre."
+        ]
+      },
+      {
+        "title": "Servir",
+        "instructions": [
+          "Sortez la quiche du four et laissez-la reposer pendant 5 minutes avant de la couper.",
+          "Servez chaude, accompagnée d'une salade verte pour un repas équilibré."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Lardons",
+        "image": "https://i.ibb.co/sshvs1w/lardon.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Oeufs",
+        "image": "https://i.ibb.co/Jq6n3wR/egg.png",
+        "quantity": "3"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "200ml"
+      },
+      {
+        "name": "Fromage râpé",
+        "image": "https://i.ibb.co/YBZs4T1/fromage-rape.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Pâte brisée",
+        "image": "https://i.ibb.co/g7mqwCp/pate-brisee.png",
+        "quantity": "1"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/nfXrzXW/moule-a-tarte.png",
+        "name": "Moule à tarte"
+      },
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Fouet"
+      }
+    ]
+  },
+  {
+    "title": "Couscous Végétarien",
+    "totalTime": 50,
+    "rating": 4.2,
+    "image": "https://i.ibb.co/Cnd9Lz5/couscous-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Un couscous savoureux avec des légumes variés.",
+    "kcal": 350,
+    "difficulty": "Moyen",
+    "step": [
+      {
+        "title": "Préparation des légumes",
+        "instructions": [
+          "Lavez et coupez les courgettes et les aubergines en dés.",
+          "Épluchez et coupez les carottes en rondelles.",
+          "Dans une poêle, chauffez l'huile d'olive à feu moyen.",
+          "Ajoutez les courgettes, les aubergines et les carottes dans la poêle.",
+          "Faites revenir les légumes pendant environ 10-15 minutes jusqu'à ce qu'ils soient tendres.",
+          "Assaisonnez avec du sel, du poivre et du thym selon votre goût."
+        ]
+      },
+      {
+        "title": "Cuisson de la semoule de couscous",
+        "instructions": [
+          "Dans une casserole, portez à ébullition 300 ml d'eau avec une pincée de sel.",
+          "Retirez la casserole du feu et versez la semoule de couscous dans l'eau bouillante.",
+          "Couvrez et laissez reposer pendant environ 5 minutes.",
+          "Aérez la semoule avec une fourchette pour éviter les grumeaux."
+        ]
+      },
+      {
+        "title": "Mélanger et servir",
+        "instructions": [
+          "Égouttez et rincez les pois chiches.",
+          "Dans un grand bol, mélangez la semoule de couscous avec les légumes cuits et les pois chiches.",
+          "Ajoutez un filet d'huile d'olive et rectifiez l'assaisonnement avec du sel, du poivre et du thym si nécessaire.",
+          "Servez chaud et dégustez !"
+        ]
+      },
+      {
+        "title": "Conseils et Variantes",
+        "instructions": [
+          "Vous pouvez ajouter d'autres légumes de saison comme des poivrons ou des tomates pour varier les saveurs.",
+          "Pour une version plus épicée, ajoutez une pincée de cumin ou de paprika lors de la cuisson des légumes.",
+          "Accompagnez ce couscous d'une sauce au yaourt et à la menthe pour une touche de fraîcheur."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Courgettes",
+        "image": "https://i.ibb.co/B3t5pCV/zuccichini-courgette.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Aubergines",
+        "image": "https://i.ibb.co/q7cn55Z/eggplant.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Carottes",
+        "image": "https://i.ibb.co/6828rJG/carrot.png",
+        "quantity": "3"
+      },
+      {
+        "name": "Pois chiches",
+        "image": "https://i.ibb.co/V38nWd4/chickpea.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Semoule de couscous",
+        "image": "https://i.ibb.co/mFyLj3X/couscous.png",
+        "quantity": "300g"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "50ml"
+      },
+      {
+        "name": "Thym",
+        "image": "https://i.ibb.co/wpzYYLD/thyme.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Tarte aux Pommes",
+    "totalTime": 60,
+    "rating": 4.5,
+    "image": "https://i.ibb.co/Dw5WQs9/applepie-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Une tarte classique avec des pommes fraîches.",
+    "kcal": 350,
+    "difficulty": "Moyen",
+    "step": [
+      {
+        "title": "Préparation de la pâte",
+        "instructions": [
+          "Préchauffez votre four à 180°C (350°F).",
+          "Étalez la pâte brisée dans le moule à tarte. Assurez-vous qu'elle est bien ajustée au fond et sur les bords.",
+          "Piquez le fond de la pâte avec une fourchette pour éviter qu'elle ne gonfle pendant la cuisson."
+        ]
+      },
+      {
+        "title": "Couper les pommes",
+        "instructions": [
+          "Lavez et épluchez les pommes.",
+          "Coupez les pommes en deux, retirez le cœur et les pépins.",
+          "Tranchez les pommes en fines lamelles à l'aide d'un couteau."
+        ]
+      },
+      {
+        "title": "Disposer les pommes sur la pâte",
+        "instructions": [
+          "Disposez les lamelles de pommes en cercles concentriques sur la pâte, en commençant par l'extérieur et en allant vers le centre.",
+          "Parsemez le sucre uniformément sur les pommes.",
+          "Saupoudrez de cannelle selon votre goût.",
+          "Répartissez des noisettes de beurre sur le dessus des pommes."
+        ]
+      },
+      {
+        "title": "Cuisson au four",
+        "instructions": [
+          "Placez le moule à tarte au four préchauffé.",
+          "Laissez cuire pendant environ 35 à 40 minutes, jusqu'à ce que les pommes soient tendres et légèrement dorées, et que la pâte soit bien cuite et dorée.",
+          "Sortez la tarte du four et laissez-la refroidir avant de la démouler et de la servir."
+        ]
+      },
+      {
+        "title": "Conseils et Variantes",
+        "instructions": [
+          "Vous pouvez ajouter un peu de jus de citron aux pommes pour éviter qu'elles ne brunissent et pour apporter une légère acidité.",
+          "Pour une touche gourmande, vous pouvez napper la tarte d'un peu de confiture d'abricot réchauffée après la cuisson.",
+          "Servez la tarte tiède avec une boule de glace à la vanille ou une cuillerée de crème fouettée pour un dessert encore plus délicieux.",
+          "Profitez de cette délicieuse Tarte aux Pommes !"
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Pommes",
+        "image": "https://i.ibb.co/S7cTkxW/apple.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Pâte brisée",
+        "image": "https://i.ibb.co/g7mqwCp/pate-brisee.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Sucre",
+        "image": "https://i.ibb.co/XjkkbPN/sucre.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Cannelle",
+        "image": "https://i.ibb.co/YNzC4fv/cinnamon.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/nfXrzXW/moule-a-tarte.png",
+        "name": "Moule à tarte"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      }
+    ]
+  },
+  {
+    "title": "Salade Niçoise",
+    "totalTime": 20,
+    "rating": 4.0,
+    "image": "https://i.ibb.co/ZKkY6Gm/saladenic-oise-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Une salade complète avec du thon, des olives, des Oeufs et des haricots verts.",
+    "kcal": 300,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Préparation des ingrédients",
+        "instructions": [
+          "Cuire les œufs",
+          "Préparer les légumes",
+          "Assembler la salade"
+        ]
+      },
+      {
+        "title": "Cuire les œufs",
+        "instructions": [
+          "Placez les œufs dans une casserole d'eau froide.",
+          "Portez l'eau à ébullition et faites cuire les œufs pendant 9 à 10 minutes pour obtenir des œufs durs.",
+          "Égouttez les œufs et laissez-les refroidir dans de l'eau froide.",
+          "Écalez les œufs et coupez-les en quartiers."
+        ]
+      },
+      {
+        "title": "Préparer les légumes",
+        "instructions": [
+          "Faites bouillir une autre casserole d'eau salée.",
+          "Ajoutez les haricots verts et faites-les cuire pendant 4 à 5 minutes jusqu'à ce qu'ils soient tendres mais encore croquants.",
+          "Égouttez les haricots verts et plongez-les immédiatement dans de l'eau glacée pour arrêter la cuisson et conserver leur couleur verte.",
+          "Coupez les tomates cerises en deux."
+        ]
+      },
+      {
+        "title": "Assembler la salade",
+        "instructions": [
+          "Dans un grand saladier, mélangez les haricots verts, les tomates cerises, le thon égoutté, et les olives noires.",
+          "Dans un bol, préparez la vinaigrette en mélangeant le vinaigre de vin, l'huile d'olive, le sel et le poivre.",
+          "Versez la vinaigrette sur la salade et mélangez délicatement pour bien enrober tous les ingrédients.",
+          "Ajoutez les quartiers d'œufs sur le dessus de la salade."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Oeufs",
+        "image": "https://i.ibb.co/Jq6n3wR/egg.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Haricots verts",
+        "image": "https://i.ibb.co/vPv4dgN/haricot-vert.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Tomates cerises",
+        "image": "https://i.ibb.co/tbf3MB5/tomate-cerise.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Thon en conserve",
+        "image": "https://i.ibb.co/VjbbPf9/thon-en-boite.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Olives noires",
+        "image": "https://i.ibb.co/jf6LgSM/olive-noire.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Vinaigre de vin",
+        "image": "https://i.ibb.co/RgnXNKK/vinegar.png",
+        "quantity": "50ml"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "50ml"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/Nxm8vwW/saladier-copie.png",
+        "name": "Saladier"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Pâtes à la Bolognaise",
+    "totalTime": 45,
+    "rating": 4.4,
+    "image": "https://i.ibb.co/LrPw5vS/patebolo-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Des pâtes classiques avec une sauce à la viande savoureuse.",
+    "kcal": 500,
+    "difficulty": "Moyen",
+    "step": [
+      {
+        "title": "Faire revenir les oignons et l'ail",
+        "instructions": [
+          "Épluchez et hachez finement les oignons et l'ail.",
+          "Dans une grande casserole, faites chauffer un peu d'huile d'olive à feu moyen.",
+          "Ajoutez les oignons hachés et faites-les revenir jusqu'à ce qu'ils soient translucides.",
+          "Ajoutez l'ail haché et faites cuire encore 1 à 2 minutes jusqu'à ce qu'il soit parfumé."
+        ]
+      },
+      {
+        "title": "Ajouter la viande et les tomates",
+        "instructions": [
+          "Ajoutez le bœuf haché dans la casserole.",
+          "Faites cuire la viande en remuant avec une spatule jusqu'à ce qu'elle soit bien dorée.",
+          "Versez le coulis de tomate dans la casserole et mélangez bien.",
+          "Assaisonnez avec du sel, du poivre et du thym selon votre goût.",
+          "Laissez mijoter à feu doux pendant environ 20 minutes, en remuant de temps en temps."
+        ]
+      },
+      {
+        "title": "Cuire les pâtes",
+        "instructions": [
+          "Pendant que la sauce mijote, portez une grande casserole d'eau salée à ébullition.",
+          "Ajoutez les pâtes et faites-les cuire selon les instructions sur l'emballage jusqu'à ce qu'elles soient al dente.",
+          "Égouttez les pâtes et réservez."
+        ]
+      },
+      {
+        "title": "Mélanger et servir",
+        "instructions": [
+          "Mélangez les pâtes égouttées avec la sauce bolognaise dans la casserole.",
+          "Remuez bien pour enrober les pâtes de sauce.",
+          "Servez chaud, garnissez éventuellement de fromage râpé et de feuilles de basilic frais."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Pâtes",
+        "image": "https://i.ibb.co/H2HGNs7/pates-farfalle.png",
+        "quantity": "400g"
+      },
+      {
+        "name": "Boeuf hâché",
+        "image": "https://i.ibb.co/hCN9KRf/steack-hache.png",
+        "quantity": "500g"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Coulis de tomate",
+        "image": "https://i.ibb.co/m0WVb4t/tomato-sauce.png",
+        "quantity": "250g"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Thym",
+        "image": "https://i.ibb.co/wpzYYLD/thyme.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Spatule"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Gâteau au Chocolat",
+    "totalTime": 60,
+    "rating": 4.7,
+    "image": "https://i.ibb.co/swyxwwV/chococake-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Un gâteau moelleux et riche en chocolat, parfait pour les amateurs de dessert.",
+    "kcal": 400,
+    "difficulty": "Moyen",
+    "step": [
+      {
+        "title": "Faire fondre le chocolat",
+        "instructions": [
+          "Préchauffez votre four à 180°C (350°F).",
+          "Cassez le chocolat noir en morceaux et placez-les dans un bol.",
+          "Ajoutez le beurre au chocolat.",
+          "Faites fondre le mélange au bain-marie ou au micro-ondes, en remuant de temps en temps jusqu'à obtenir une consistance lisse."
+        ]
+      },
+      {
+        "title": "Mélanger les ingrédients",
+        "instructions": [
+          "Dans un autre bol, battez les œufs et le sucre avec un fouet électrique jusqu'à ce que le mélange blanchisse et devienne mousseux.",
+          "Ajoutez le mélange de chocolat fondu et de beurre aux œufs battus et mélangez bien.",
+          "Incorporez progressivement la farine tamisée en remuant délicatement jusqu'à obtenir une pâte homogène."
+        ]
+      },
+      {
+        "title": "Cuire au four",
+        "instructions": [
+          "Beurrez et farinez légèrement le moule à gâteau pour éviter que le gâteau ne colle.",
+          "Versez la pâte dans le moule et lissez la surface avec une spatule.",
+          "Enfournez le gâteau dans le four préchauffé et laissez cuire pendant environ 25 à 30 minutes, jusqu'à ce qu'une croûte se forme sur le dessus mais que le centre soit encore légèrement fondant.",
+          "Laissez refroidir le gâteau avant de le démouler et de le servir."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Chocolat noir",
+        "image": "https://i.ibb.co/0G6C2Zg/chocolate-food.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Oeufs",
+        "image": "https://i.ibb.co/Jq6n3wR/egg.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Sucre",
+        "image": "https://i.ibb.co/XjkkbPN/sucre.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Farine",
+        "image": "https://i.ibb.co/ypG9trh/farine.png",
+        "quantity": "50g"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/z554KNS/moule-gateau.png",
+        "name": "Moule à gâteau"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      },
+      {
+        "image": "https://i.ibb.co/XpKww5K/fouet-lectrique.png",
+        "name": "Fouet électrique"
+      }
+    ]
+  },
+  {
+    "title": "Poisson Grillé",
+    "totalTime": 30,
+    "rating": 4.2,
+    "image": "https://i.ibb.co/9n5srCc/fishgrill-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Un plat simple et sain avec du poisson frais.",
+    "kcal": 300,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Préparer le poisson",
+        "instructions": [
+          "Rincez les filets de poisson sous l'eau froide et séchez-les avec du papier absorbant.",
+          "Vérifiez qu'il ne reste pas d'arêtes dans les filets en passant doucement vos doigts dessus et retirez-les si nécessaire avec une pince à épiler."
+        ]
+      },
+      {
+        "title": "Assaisonner",
+        "instructions": [
+          "Placez les filets de poisson dans un bol.",
+          "Versez l'huile d'olive sur les filets et assurez-vous qu'ils soient bien enduits.",
+          "Saupoudrez les herbes de Provence, le sel et le poivre sur les deux côtés des filets. Massez légèrement pour bien faire pénétrer les assaisonnements."
+        ]
+      },
+      {
+        "title": "Griller le poisson",
+        "instructions": [
+          "Préchauffez le grill à feu moyen-élevé.",
+          "Placez les filets de poisson sur le grill chaud.",
+          "Faites griller chaque côté pendant environ 3 à 4 minutes, ou jusqu'à ce que le poisson soit bien cuit et se défasse facilement à la fourchette.",
+          "Servez immédiatement, accompagné de légumes grillés ou d'une salade verte pour un repas équilibré."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Poisson",
+        "image": "https://i.ibb.co/PDvn5Rc/poisson.png",
+        "quantity": "2 filets"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "20ml"
+      },
+      {
+        "name": "Herbes de Provence",
+        "image": "https://i.ibb.co/2Z7yh32/herbs-of-provence.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/YXcg741/grill.png",
+        "name": "Grill"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Pizza Margherita",
+    "totalTime": 30,
+    "rating": 4.4,
+    "image": "https://i.ibb.co/RYYRzHY/pizzamargue-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Une pizza simple et délicieuse avec de la mozzarella et du basilic frais.",
+    "kcal": 400,
+    "difficulty": "Moyen",
+    "step": [
+      {
+        "title": "Préparer la pâte",
+        "instructions": [
+          "Préchauffez votre four à 220°C (430°F).",
+          "Étalez la pâte à pizza sur une plaque de cuisson légèrement huilée ou recouverte de papier sulfurisé."
+        ]
+      },
+      {
+        "title": "Ajouter la sauce et la mozzarella",
+        "instructions": [
+          "Étalez uniformément la sauce tomate sur la pâte, en laissant un petit bord tout autour.",
+          "Coupez la mozzarella en tranches fines et disposez-les sur la sauce tomate.",
+          "Ajoutez quelques feuilles de basilic frais par-dessus la mozzarella.",
+          "Arrosez d'un filet d'huile d'olive."
+        ]
+      },
+      {
+        "title": "Cuire au four",
+        "instructions": [
+          "Placez la pizza dans le four préchauffé.",
+          "Faites cuire pendant environ 10 à 15 minutes, jusqu'à ce que la pâte soit bien dorée et croustillante, et que le fromage soit fondu et légèrement doré.",
+          "Sortez la pizza du four et laissez-la refroidir légèrement avant de la couper en parts."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Pâte à pizza",
+        "image": "https://i.ibb.co/f9rbSGt/pate-pizza.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Sauce tomate",
+        "image": "https://i.ibb.co/m0WVb4t/tomato-sauce.png",
+        "quantity": "200ml"
+      },
+      {
+        "name": "Mozzarella",
+        "image": "https://i.ibb.co/rbXLVhd/mozzarella-cheese.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Basilic",
+        "image": "https://i.ibb.co/x27K3Nk/basilic.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "20ml"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/WyGgTvm/plaque-de-cuisson.png",
+        "name": "Plaque de cuisson"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Crevettes à l'Ail",
+    "totalTime": 15,
+    "rating": 4.3,
+    "image": "https://i.ibb.co/k8G624J/crevetteail-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Des crevettes sautées avec une touche d'ail et de citron.",
+    "kcal": 200,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Faire revenir l'ail",
+        "instructions": [
+          "Chauffez l'huile d'olive dans une poêle à feu moyen.",
+          "Ajoutez l'ail émincé et faites-le revenir pendant environ 1 minute jusqu'à ce qu'il soit doré et parfumé."
+        ]
+      },
+      {
+        "title": "Ajouter les crevettes",
+        "instructions": [
+          "Ajoutez les crevettes dans la poêle.",
+          "Faites-les cuire pendant environ 3 à 4 minutes de chaque côté, ou jusqu'à ce qu'elles deviennent roses et opaques."
+        ]
+      },
+      {
+        "title": "Assaisonner et servir",
+        "instructions": [
+          "Pressez le jus de citron sur les crevettes.",
+          "Assaisonnez avec du sel et du poivre à votre goût.",
+          "Saupoudrez de persil haché avant de servir."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Crevettes",
+        "image": "https://i.ibb.co/Xt8ch4d/shrimp.png",
+        "quantity": "300g"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "3 gousses"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "30ml"
+      },
+      {
+        "name": "Citron",
+        "image": "https://i.ibb.co/XkYVJy4/citron-jaune.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Persil",
+        "image": "https://i.ibb.co/q7M2ByN/persil.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "https://i.ibb.co/SnMT8Vz/presse-ail.png",
+        "name": "Presse-ail"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Soupe à l'Oignon",
+    "totalTime": 50,
+    "rating": 4.6,
+    "image": "https://i.ibb.co/5MZGSyZ/soupeoignon-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Une soupe riche et réconfortante avec des oignons caramélisés et du fromage gratiné.",
+    "kcal": 250,
+    "difficulty": "Moyen",
+    "step": [
+      {
+        "title": "Faire caraméliser les oignons",
+        "instructions": [
+          "Faites chauffer le beurre et l'huile d'olive dans une grande poêle à feu moyen.",
+          "Ajoutez les oignons émincés et faites-les cuire lentement en remuant régulièrement pendant environ 20-25 minutes jusqu'à ce qu'ils soient bien dorés et caramélisés."
+        ]
+      },
+      {
+        "title": "Ajouter le bouillon",
+        "instructions": [
+          "Saupoudrez les oignons caramélisés de farine et mélangez bien pour enrober les oignons.",
+          "Ajoutez le bouillon de boeuf petit à petit tout en remuant pour éviter les grumeaux.",
+          "Portez à ébullition, puis réduisez le feu et laissez mijoter pendant 15 minutes. Assaisonnez avec du sel et du poivre à votre goût."
+        ]
+      },
+      {
+        "title": "Gratiner avec du fromage",
+        "instructions": [
+          "Préchauffez le four à 180°C (350°F).",
+          "Versez la soupe dans des bols résistants à la chaleur. Disposez des tranches de pain sur le dessus de la soupe et saupoudrez généreusement de fromage râpé.",
+          "Placez les bols sous le gril du four pendant environ 5 minutes ou jusqu'à ce que le fromage soit fondu et doré."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Farine",
+        "image": "https://i.ibb.co/ypG9trh/farine.png",
+        "quantity": "2 cuillères à soupe"
+      },
+      {
+        "name": "Bouillon de Boeuf",
+        "image": "https://i.ibb.co/gdskYBn/cube-bouillon-poulet.png",
+        "quantity": "1 litre"
+      },
+      {
+        "name": "Fromage",
+        "image": "https://i.ibb.co/FzdgNRS/fromage.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "20ml"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Pain",
+        "image": "https://i.ibb.co/BVqyqzR/baguette.png",
+        "quantity": "200g"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Spatule"
+      }
+    ]
+  },
+  {
+    "title": "Riz Pilaf",
+    "totalTime": 30,
+    "rating": 4.1,
+    "image": "https://i.ibb.co/kqxfPBX/rizpilaf-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Un riz aromatisé avec des légumes et des épices.",
+    "kcal": 350,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Faire revenir les oignons et les épices",
+        "instructions": [
+          "Faites chauffer l'huile d'olive dans une grande casserole à feu moyen.",
+          "Ajoutez les oignons émincés et faites-les revenir jusqu'à ce qu'ils deviennent translucides.",
+          "Ajoutez les carottes en dés et le cumin, puis faites revenir le tout pendant quelques minutes jusqu'à ce que les carottes commencent à ramollir."
+        ]
+      },
+      {
+        "title": "Ajouter le riz et le bouillon",
+        "instructions": [
+          "Ajoutez le riz à la casserole et mélangez bien pour enrober les grains de riz avec l'huile et les épices.",
+          "Versez le bouillon de légumes et portez à ébullition."
+        ]
+      },
+      {
+        "title": "Cuire à feu doux",
+        "instructions": [
+          "Réduisez le feu, couvrez la casserole et laissez mijoter pendant environ 15-20 minutes, ou jusqu'à ce que le riz soit cuit et ait absorbé tout le liquide.",
+          "Assaisonnez avec du sel et du poivre selon votre goût."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Riz",
+        "image": "https://i.ibb.co/4sYmVLK/rice.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Bouillon de légumes",
+        "image": "https://i.ibb.co/JxvHBg9/cube-bouillon-legume.png",
+        "quantity": "500ml"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "20ml"
+      },
+      {
+        "name": "Carottes",
+        "image": "https://i.ibb.co/6828rJG/carrot.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Cumin",
+        "image": "https://i.ibb.co/KDvrsb0/cumin.png",
+        "quantity": "1 cuillère à café"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Poulet au Curry",
+    "totalTime": 40,
+    "rating": 4.5,
+    "image": "https://i.ibb.co/TRyCcbH/pouletcurry-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Poulet tendre mijoté dans une sauce au curry épicée.",
+    "kcal": 450,
+    "difficulty": "Moyen",
+    "step": [
+      {
+        "title": "Faire revenir le poulet",
+        "instructions": [
+          "Faites chauffer l'huile d'olive dans une poêle à feu moyen.",
+          "Ajoutez les morceaux de poulet et faites-les revenir jusqu'à ce qu'ils soient dorés de tous les côtés. Retirez le poulet de la poêle et réservez."
+        ]
+      },
+      {
+        "title": "Ajouter les épices et la crème",
+        "instructions": [
+          "Dans la même poêle, ajoutez l'oignon émincé et faites-le revenir jusqu'à ce qu'il soit translucide.",
+          "Ajoutez l'ail émincé et le curry, puis faites revenir pendant 1 à 2 minutes pour libérer les arômes.",
+          "Remettez le poulet dans la poêle et mélangez bien pour enrober les morceaux de poulet avec les épices.",
+          "Ajoutez la crème fraîche et mélangez bien. Laissez mijoter à feu doux pendant environ 15 minutes, jusqu'à ce que le poulet soit bien cuit et tendre."
+        ]
+      },
+      {
+        "title": "Laisser mijoter",
+        "instructions": [
+          "Assaisonnez avec du sel et du poivre selon votre goût.",
+          "Laissez mijoter encore quelques minutes pour que les saveurs se mélangent bien."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Poulet",
+        "image": "https://i.ibb.co/7JC2YL9/chicken.png",
+        "quantity": "500g"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Curry",
+        "image": "https://i.ibb.co/ByJhd0R/curry.png",
+        "quantity": "2 cuillères à soupe"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "200ml"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "30ml"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Lasagnes aux Épinards",
+    "totalTime": 60,
+    "rating": 4.6,
+    "image": "https://i.ibb.co/GTrYPSc/lasagnepinard-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Lasagnes végétariennes avec des épinards et du fromage.",
+    "kcal": 600,
+    "difficulty": "Moyen",
+    "step": [
+      {
+        "title": "Préparer les épinards",
+        "instructions": [
+          "Faites chauffer l'huile d'olive dans une poêle à feu moyen.",
+          "Ajoutez l'oignon émincé et faites-le revenir jusqu'à ce qu'il soit translucide.",
+          "Ajoutez l'ail émincé et faites revenir encore 1 à 2 minutes.",
+          "Ajoutez les épinards et faites-les cuire jusqu'à ce qu'ils soient tendres. Assaisonnez avec du sel et du poivre selon votre goût."
+        ]
+      },
+      {
+        "title": "Assembler les lasagnes",
+        "instructions": [
+          "Préchauffez le four à 180°C (350°F).",
+          "Dans le plat à gratin, étalez une couche de feuilles de lasagnes.",
+          "Ajoutez une couche de la préparation aux épinards.",
+          "Versez un peu de crème fraîche par-dessus et saupoudrez de fromage râpé.",
+          "Répétez les couches jusqu'à épuisement des ingrédients, en terminant par une couche de fromage râpé."
+        ]
+      },
+      {
+        "title": "Cuire au four",
+        "instructions": [
+          "Couvrez le plat avec du papier aluminium et enfournez pendant 30 minutes.",
+          "Retirez le papier aluminium et poursuivez la cuisson pendant 10 à 15 minutes supplémentaires, jusqu'à ce que le fromage soit doré et bouillonnant."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Feuilles de lasagnes",
+        "image": "https://i.ibb.co/JqmgHw4/lasagne.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Épinards",
+        "image": "https://i.ibb.co/PrRzWcf/spinach.png",
+        "quantity": "300g"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "200ml"
+      },
+      {
+        "name": "Fromage râpé",
+        "image": "https://i.ibb.co/YBZs4T1/fromage-rape.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "20ml"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/6HSJ64T/plat-a-grattin.png",
+        "name": "Plat à gratin"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Spatule"
+      }
+    ]
+  },
+  {
+    "title": "Gratin Dauphinois",
+    "totalTime": 70,
+    "rating": 4.3,
+    "image": "https://i.ibb.co/bBVrCxk/gratindauphinois-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Un plat traditionnel de pommes de terre à la crème.",
+    "kcal": 400,
+    "difficulty": "Moyen",
+    "step": [
+      {
+        "title": "Éplucher et trancher les pommes de terre",
+        "instructions": [
+          "Épluchez les pommes de terre et tranchez-les finement à l'aide d'un couteau ou d'une mandoline."
+        ]
+      },
+      {
+        "title": "Faire chauffer la crème",
+        "instructions": [
+          "Faites chauffer la crème fraîche dans une casserole à feu doux. Ajoutez le sel, le poivre et la muscade selon votre goût."
+        ]
+      },
+      {
+        "title": "Assembler le gratin",
+        "instructions": [
+          "Préchauffez le four à 180°C (350°F).",
+          "Beurrez le plat à gratin.",
+          "Disposez une couche de pommes de terre dans le plat.",
+          "Versez un peu de crème chaude sur les pommes de terre.",
+          "Répétez les couches jusqu'à épuisement des ingrédients, en terminant par une couche de crème."
+        ]
+      },
+      {
+        "title": "Cuire au four",
+        "instructions": [
+          "Couvrez le plat avec du papier aluminium et enfournez pendant 50 minutes.",
+          "Retirez le papier aluminium et saupoudrez de fromage râpé.",
+          "Poursuivez la cuisson pendant 20 minutes supplémentaires, jusqu'à ce que le dessus soit doré et bouillonnant."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Pommes de terre",
+        "image": "https://i.ibb.co/CKhbB3q/potato.png",
+        "quantity": "1kg"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "500ml"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Fromage râpé",
+        "image": "https://i.ibb.co/YBZs4T1/fromage-rape.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Muscade",
+        "image": "https://i.ibb.co/9NtbmRp/nutmeg-muscade.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/6HSJ64T/plat-a-grattin.png",
+        "name": "Plat à gratin"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Tacos au Poulet",
+    "totalTime": 25,
+    "rating": 4.1,
+    "image": "https://i.ibb.co/3R5zMh2/tacospoulet-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Des tacos délicieux garnis de poulet épicé, de légumes frais et de fromage.",
+    "kcal": 350,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Préparer le poulet",
+        "instructions": [
+          "Coupez le poulet en petits morceaux.",
+          "Faites chauffer l'huile d'olive dans une poêle à feu moyen.",
+          "Ajoutez l'oignon émincé et faites-le revenir jusqu'à ce qu'il soit translucide.",
+          "Ajoutez les morceaux de poulet et faites-les cuire jusqu'à ce qu'ils soient bien dorés."
+        ]
+      },
+      {
+        "title": "Chauffer les tortillas",
+        "instructions": [
+          "Faites chauffer les tortillas dans une poêle ou au micro-ondes jusqu'à ce qu'elles soient chaudes et souples."
+        ]
+      },
+      {
+        "title": "Assembler les tacos",
+        "instructions": [
+          "Placez une portion de poulet cuit sur chaque tortilla.",
+          "Ajoutez des morceaux de tomates coupées en dés.",
+          "Saupoudrez de fromage râpé.",
+          "Garnissez de coriandre fraîche.",
+          "Pliez les tortillas et servez chaud."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Poulet",
+        "image": "https://i.ibb.co/7JC2YL9/chicken.png",
+        "quantity": "300g"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "20ml"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Tomates",
+        "image": "https://i.ibb.co/xsvbwNd/tomatoes.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Fromage râpé",
+        "image": "https://i.ibb.co/YBZs4T1/fromage-rape.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Tortillas",
+        "image": "https://i.ibb.co/Pgvh1zc/tortillas.png",
+        "quantity": "8"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Coriandre",
+        "image": "https://i.ibb.co/NWLw7DD/coriander.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Salade César",
+    "totalTime": 20,
+    "rating": 4.2,
+    "image": "https://i.ibb.co/552Qtpn/saladecesar-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Une salade croquante avec du poulet, des croûtons et une sauce crémeuse.",
+    "kcal": 300,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Préparer le poulet",
+        "instructions": [
+          "Coupez le poulet en fines tranches.",
+          "Faites chauffer un peu d'huile d'olive dans une poêle à feu moyen.",
+          "Ajoutez le poulet et faites-le cuire jusqu'à ce qu'il soit bien doré et cuit à cœur.",
+          "Assaisonnez avec du sel et du poivre selon votre goût."
+        ]
+      },
+      {
+        "title": "Mélanger les ingrédients",
+        "instructions": [
+          "Dans un saladier, mélangez la salade romaine coupée en morceaux, les croûtons, et le parmesan râpé.",
+          "Ajoutez le poulet cuit et mélangez bien."
+        ]
+      },
+      {
+        "title": "Servir avec la sauce",
+        "instructions": [
+          "Préparez la sauce en mélangeant la crème fraîche avec l'ail émincé, du sel et du poivre.",
+          "Versez la sauce sur la salade et mélangez bien pour enrober tous les ingrédients.",
+          "Servez immédiatement."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Poulet",
+        "image": "https://i.ibb.co/7JC2YL9/chicken.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Salade romaine",
+        "image": "https://i.ibb.co/xhyJSRP/lettuce.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Croûtons",
+        "image": "https://i.ibb.co/sgxw0pP/croutons.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "100ml"
+      },
+      {
+        "name": "Parmesan",
+        "image": "https://i.ibb.co/HDyTcw9/parmesan-cheese.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "1 gousse"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Bol"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "https://i.ibb.co/Nxm8vwW/saladier-copie.png",
+        "name": "Saladier"
+      }
+    ]
+  },
+  {
+    "title": "Croque-Monsieur",
+    "totalTime": 20,
+    "rating": 4.0,
+    "image": "https://i.ibb.co/cTxsnrZ/CroqueM.png",
+    "imageType": "jpg",
+    "description": "Un sandwich chaud au jambon et fromage, grillé à la perfection.",
+    "kcal": 350,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Beurrer le pain",
+        "instructions": ["Beurrez une face de chaque tranche de pain de mie."]
+      },
+      {
+        "title": "Ajouter le jambon et le fromage",
+        "instructions": [
+          "Placez une tranche de jambon et du fromage râpé sur une tranche de pain (côté non beurré).",
+          "Assaisonnez avec du sel et du poivre selon votre goût.",
+          "Couvrez avec une autre tranche de pain, côté beurré vers l'extérieur."
+        ]
+      },
+      {
+        "title": "Griller dans une poêle",
+        "instructions": [
+          "Faites chauffer une poêle à feu moyen.",
+          "Placez le sandwich dans la poêle et faites-le griller jusqu'à ce que le pain soit doré et croustillant, et que le fromage soit fondu.",
+          "Retournez le sandwich à mi-cuisson pour griller l'autre côté."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Pain de mie",
+        "image": "https://i.ibb.co/yd92vXV/pain-de-mie.png",
+        "quantity": "4 tranches"
+      },
+      {
+        "name": "Jambon",
+        "image": "https://i.ibb.co/xMRnKgJ/jambon-blanc.png",
+        "quantity": "2 tranches"
+      },
+      {
+        "name": "Fromage râpé",
+        "image": "https://i.ibb.co/YBZs4T1/fromage-rape.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "20g"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "https://i.ibb.co/4mWHTfD/grille-pain.png",
+        "name": "Grille-pain"
+      },
+      {
+        "image": "",
+        "name": "Spatule"
+      }
+    ]
+  },
+  {
+    "title": "Poivrons Farcis",
+    "totalTime": 40,
+    "rating": 4.3,
+    "image": "https://i.ibb.co/HrKpDSw/poivrons-farcis.png",
+    "imageType": "jpg",
+    "description": "Des poivrons colorés farcis d'un mélange savoureux de riz et de légumes.",
+    "kcal": 300,
+    "difficulty": "Moyen",
+    "step": [
+      {
+        "title": "Préparer les poivrons",
+        "instructions": [
+          "Préchauffez le four à 180°C (350°F).",
+          "Coupez le haut des poivrons et retirez les graines et les membranes intérieures.",
+          "Placez les poivrons dans un plat à gratin."
+        ]
+      },
+      {
+        "title": "Faire revenir les légumes",
+        "instructions": [
+          "Faites chauffer l'huile d'olive dans une poêle à feu moyen.",
+          "Ajoutez l'oignon émincé et faites-le revenir jusqu'à ce qu'il soit translucide.",
+          "Ajoutez l'ail émincé et faites revenir encore 1 à 2 minutes.",
+          "Ajoutez les tomates coupées en dés et faites cuire jusqu'à ce qu'elles soient tendres.",
+          "Incorporez le riz cuit et assaisonnez avec du sel, du poivre et des herbes de Provence selon votre goût."
+        ]
+      },
+      {
+        "title": "Farcir les poivrons et cuire au four",
+        "instructions": [
+          "Remplissez chaque poivron avec la préparation de riz et de légumes.",
+          "Couvrez le plat avec du papier aluminium et enfournez pendant 30 minutes.",
+          "Retirez le papier aluminium et poursuivez la cuisson pendant 10 minutes supplémentaires, jusqu'à ce que les poivrons soient tendres."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Poivrons",
+        "image": "https://i.ibb.co/JtS7qYg/bell-pepper.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Riz",
+        "image": "https://i.ibb.co/4sYmVLK/rice.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Tomates",
+        "image": "https://i.ibb.co/xsvbwNd/tomatoes.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "20ml"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Herbes de Provence",
+        "image": "https://i.ibb.co/2Z7yh32/herbs-of-provence.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/6HSJ64T/plat-a-grattin.png",
+        "name": "Plat à gratin"
+      },
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Gratin de Courgettes",
+    "totalTime": 35,
+    "rating": 4.2,
+    "image": "https://i.ibb.co/YcP9rgX/grattin-de-courgettes.png",
+    "imageType": "jpg",
+    "description": "Un gratin crémeux aux courgettes et au fromage.",
+    "kcal": 200,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Trancher les courgettes",
+        "instructions": ["Lavez les courgettes et tranchez-les finement."]
+      },
+      {
+        "title": "Faire revenir les courgettes",
+        "instructions": [
+          "Faites chauffer le beurre dans une poêle à feu moyen.",
+          "Ajoutez les courgettes tranchées et faites-les revenir jusqu'à ce qu'elles soient légèrement dorées.",
+          "Assaisonnez avec du sel et du poivre selon votre goût."
+        ]
+      },
+      {
+        "title": "Assembler le gratin",
+        "instructions": [
+          "Préchauffez le four à 180°C (350°F).",
+          "Disposez une couche de courgettes dans un plat à gratin.",
+          "Versez une partie de la crème fraîche sur les courgettes et saupoudrez de fromage râpé.",
+          "Répétez les couches jusqu'à épuisement des ingrédients, en terminant par une couche de fromage râpé."
+        ]
+      },
+      {
+        "title": "Cuire au four",
+        "instructions": [
+          "Enfournez le plat à gratin pendant 20 minutes, jusqu'à ce que le fromage soit fondu et légèrement doré."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Courgettes",
+        "image": "https://i.ibb.co/B3t5pCV/zuccichini-courgette.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "200ml"
+      },
+      {
+        "name": "Fromage râpé",
+        "image": "https://i.ibb.co/YBZs4T1/fromage-rape.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "30g"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/6HSJ64T/plat-a-grattin.png",
+        "name": "Plat à gratin"
+      },
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Poulet Basquaise",
+    "totalTime": 50,
+    "rating": 4.5,
+    "image": "https://i.ibb.co/VMvgt1F/poulet-basquaise.png",
+    "imageType": "jpg",
+    "description": "Un plat traditionnel basque avec du poulet, des poivrons et des tomates.",
+    "kcal": 350,
+    "difficulty": "Moyen",
+    "step": [
+      {
+        "title": "Faire revenir le poulet",
+        "instructions": [
+          "Chauffez l'huile d'olive dans une poêle à feu moyen.",
+          "Ajoutez les morceaux de poulet et faites-les dorer de tous les côtés.",
+          "Retirez le poulet de la poêle et réservez."
+        ]
+      },
+      {
+        "title": "Ajouter les légumes",
+        "instructions": [
+          "Dans la même poêle, ajoutez l'oignon émincé et faites-le revenir jusqu'à ce qu'il soit translucide.",
+          "Ajoutez l'ail émincé et faites revenir encore 1 à 2 minutes.",
+          "Ajoutez les poivrons tranchés et les tomates coupées en dés.",
+          "Faites revenir jusqu'à ce que les légumes soient tendres.",
+          "Assaisonnez avec du sel, du poivre et des herbes de Provence selon votre goût."
+        ]
+      },
+      {
+        "title": "Laisser mijoter",
+        "instructions": [
+          "Remettez le poulet dans la poêle avec les légumes.",
+          "Couvrez et laissez mijoter à feu doux pendant 30 minutes, jusqu'à ce que le poulet soit bien cuit et les saveurs bien mélangées."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Poulet",
+        "image": "https://i.ibb.co/7JC2YL9/chicken.png",
+        "quantity": "500g"
+      },
+      {
+        "name": "Poivrons",
+        "image": "https://i.ibb.co/JtS7qYg/bell-pepper.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Tomates",
+        "image": "https://i.ibb.co/xsvbwNd/tomatoes.png",
+        "quantity": "3"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "30ml"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Herbes de Provence",
+        "image": "https://i.ibb.co/2Z7yh32/herbs-of-provence.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Clafoutis aux Cerises",
+    "totalTime": 45,
+    "rating": 4.4,
+    "image": "https://i.ibb.co/pPz8CM6/clafoutis-aux-cerises.png",
+    "imageType": "jpg",
+    "description": "Un dessert traditionnel français à base de cerises et de pâte.",
+    "kcal": 300,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Préparer la pâte",
+        "instructions": [
+          "Dans un bol, battez les oeufs avec le sucre jusqu'à ce que le mélange soit mousseux.",
+          "Ajoutez la farine, la crème fraîche, l'extrait de vanille et la pincée de sel. Mélangez bien pour obtenir une pâte lisse."
+        ]
+      },
+      {
+        "title": "Ajouter les cerises",
+        "instructions": [
+          "Beurrez le plat à gratin.",
+          "Disposez les cerises au fond du plat.",
+          "Versez la pâte par-dessus les cerises."
+        ]
+      },
+      {
+        "title": "Cuire au four",
+        "instructions": [
+          "Préchauffez le four à 180°C (350°F).",
+          "Enfournez le plat et faites cuire pendant 35 à 40 minutes, jusqu'à ce que le clafoutis soit doré et ferme au toucher."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Cerises",
+        "image": "https://i.ibb.co/Jqwq6zX/cerise.png",
+        "quantity": "500g"
+      },
+      {
+        "name": "Oeufs",
+        "image": "https://i.ibb.co/Jq6n3wR/egg.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Farine",
+        "image": "https://i.ibb.co/ypG9trh/farine.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Sucre",
+        "image": "https://i.ibb.co/XjkkbPN/sucre.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "200ml"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "30g"
+      },
+      {
+        "name": "Extrait de vanille",
+        "image": "https://i.ibb.co/0rN7bc1/vanilla.png",
+        "quantity": "1 cuillère à café"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "1 pincée"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/6HSJ64T/plat-a-grattin.png",
+        "name": "Plat à gratin"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Tarte Tatin",
+    "totalTime": 60,
+    "rating": 4.7,
+    "image": "https://i.ibb.co/Db1g0NL/tarte-tatin.png",
+    "imageType": "jpg",
+    "description": "Une tarte renversée aux pommes caramélisées.",
+    "kcal": 400,
+    "difficulty": "Moyen",
+    "step": [
+      {
+        "title": "Préparer les pommes",
+        "instructions": [
+          "Épluchez les pommes, coupez-les en quartiers et retirez les pépins."
+        ]
+      },
+      {
+        "title": "Caraméliser les pommes",
+        "instructions": [
+          "Dans une casserole, faites fondre le beurre et ajoutez le sucre.",
+          "Faites cuire à feu moyen jusqu'à ce que le mélange devienne un caramel doré.",
+          "Ajoutez les pommes au caramel et faites-les cuire pendant 10 minutes en les retournant régulièrement pour qu'elles soient bien enrobées.",
+          "Ajoutez la cannelle et l'extrait de vanille."
+        ]
+      },
+      {
+        "title": "Cuire la tarte",
+        "instructions": [
+          "Préchauffez le four à 180°C (350°F).",
+          "Disposez les pommes caramélisées dans le moule à tarte.",
+          "Déroulez la pâte feuilletée et placez-la sur les pommes en rentrant les bords à l'intérieur du moule.",
+          "Piquez légèrement la pâte avec une fourchette.",
+          "Enfournez pendant 30 minutes, jusqu'à ce que la pâte soit dorée et croustillante.",
+          "Laissez tiédir quelques minutes, puis retournez la tarte sur un plat de service."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Pommes",
+        "image": "https://i.ibb.co/S7cTkxW/apple.png",
+        "quantity": "6"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Sucre",
+        "image": "https://i.ibb.co/XjkkbPN/sucre.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Pâte feuilletée",
+        "image": "https://i.ibb.co/MMVWhdt/pate-feuilletee.png",
+        "quantity": "1 rouleau"
+      },
+      {
+        "name": "Cannelle",
+        "image": "https://i.ibb.co/YNzC4fv/cinnamon.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Extrait de vanille",
+        "image": "https://i.ibb.co/0rN7bc1/vanilla.png",
+        "quantity": "1 cuillère à café"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/nfXrzXW/moule-a-tarte.png",
+        "name": "Moule à tarte"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Soupe de Potiron",
+    "totalTime": 30,
+    "rating": 4.3,
+    "image": "https://i.ibb.co/VWWTsnP/soupe-de-potimaron.png",
+    "imageType": "jpg",
+    "description": "Une soupe crémeuse et réconfortante à base de potiron.",
+    "kcal": 150,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Couper le potiron",
+        "instructions": [
+          "Épluchez et découpez le potiron en morceaux de taille moyenne."
+        ]
+      },
+      {
+        "title": "Faire revenir les oignons",
+        "instructions": [
+          "Dans une casserole, faites fondre le beurre à feu moyen.",
+          "Ajoutez les oignons émincés et l'ail haché, puis faites-les revenir jusqu'à ce qu'ils deviennent translucides."
+        ]
+      },
+      {
+        "title": "Ajouter le potiron et le bouillon",
+        "instructions": [
+          "Ajoutez les morceaux de potiron dans la casserole.",
+          "Versez le bouillon de légumes et portez à ébullition.",
+          "Laissez mijoter à feu doux pendant environ 20 minutes, ou jusqu'à ce que le potiron soit tendre."
+        ]
+      },
+      {
+        "title": "Mixer",
+        "instructions": [
+          "Utilisez un mixeur pour réduire la soupe en purée lisse.",
+          "Incorporez la crème fraîche, puis assaisonnez avec du sel et du poivre selon votre goût.",
+          "Mélangez bien et servez chaud."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Potiron",
+        "image": "https://i.ibb.co/yqp65XK/potiron.png",
+        "quantity": "1 kg"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Bouillon de légumes",
+        "image": "https://i.ibb.co/JxvHBg9/cube-bouillon-legume.png",
+        "quantity": "1 litre"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "100ml"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "20g"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Mixeur"
+      }
+    ]
+  },
+  {
+    "title": "Blanquette de Veau",
+    "totalTime": 90,
+    "rating": 4.7,
+    "image": "https://i.ibb.co/pKSYtmD/blanquette-de-veau.png",
+    "imageType": "jpg",
+    "description": "Un plat classique de la cuisine française, riche et crémeux.",
+    "kcal": 500,
+    "difficulty": "Moyen",
+    "step": [
+      {
+        "title": "Faire revenir le veau",
+        "instructions": [
+          "Coupez le veau en morceaux de taille moyenne.",
+          "Dans une casserole, faites fondre le beurre à feu moyen.",
+          "Ajoutez les morceaux de veau et faites-les revenir jusqu'à ce qu'ils soient dorés de tous les côtés."
+        ]
+      },
+      {
+        "title": "Ajouter les légumes et le bouillon",
+        "instructions": [
+          "Émincez les oignons et les carottes, puis ajoutez-les à la casserole.",
+          "Ajoutez les champignons tranchés.",
+          "Versez le bouillon de volaille dans la casserole.",
+          "Ajoutez les feuilles de laurier, salez et poivrez selon votre goût.",
+          "Portez à ébullition, puis réduisez le feu et laissez mijoter à feu doux pendant environ 1 heure, ou jusqu'à ce que le veau soit tendre."
+        ]
+      },
+      {
+        "title": "Laisser mijoter",
+        "instructions": [
+          "Laissez mijoter doucement, en remuant de temps en temps, pour permettre aux saveurs de se mélanger et à la viande de s'attendrir."
+        ]
+      },
+      {
+        "title": "Ajouter la crème",
+        "instructions": [
+          "Retirez les feuilles de laurier.",
+          "Ajoutez la crème fraîche à la casserole.",
+          "Mélangez bien et laissez mijoter encore 5 minutes pour que la sauce épaississe légèrement.",
+          "Ajustez l'assaisonnement si nécessaire."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Veau",
+        "image": "https://i.ibb.co/k6j7wtn/veau.png",
+        "quantity": "700g"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Carottes",
+        "image": "https://i.ibb.co/6828rJG/carrot.png",
+        "quantity": "3"
+      },
+      {
+        "name": "Champignons",
+        "image": "https://i.ibb.co/M9c80FD/mushroom.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Bouillon de volaille",
+        "image": "https://i.ibb.co/gdskYBn/cube-bouillon-poulet.png",
+        "quantity": "1 litre"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "200ml"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Laurier",
+        "image": "https://i.ibb.co/JnDhNDY/bay-leaf-laurier.png",
+        "quantity": "2 feuilles"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Boeuf Bourguignon",
+    "totalTime": 180,
+    "rating": 4.7,
+    "image": "https://i.ibb.co/FhDBVP5/boeuf-bourguignon.png",
+    "imageType": "jpg",
+    "description": "Un ragoût de Boeuf mijoté dans du vin rouge avec des légumes.",
+    "kcal": 600,
+    "difficulty": "Moyen",
+    "step": [
+      {
+        "title": "Faire revenir le boeuf",
+        "instructions": [
+          "Coupez le boeuf en morceaux de taille moyenne.",
+          "Dans une casserole, faites fondre le beurre à feu moyen.",
+          "Ajoutez les morceaux de boeuf et faites-les revenir jusqu'à ce qu'ils soient dorés de tous les côtés.",
+          "Saupoudrez de farine et mélangez bien pour enrober la viande."
+        ]
+      },
+      {
+        "title": "Ajouter les légumes et le vin",
+        "instructions": [
+          "Émincez les oignons et les carottes, puis ajoutez-les à la casserole.",
+          "Ajoutez les champignons tranchés.",
+          "Versez le vin rouge dans la casserole.",
+          "Ajoutez le bouquet garni, salez et poivrez selon votre goût."
+        ]
+      },
+      {
+        "title": "Laisser mijoter",
+        "instructions": [
+          "Portez à ébullition, puis réduisez le feu et laissez mijoter à feu doux pendant environ 2 heures, ou jusqu'à ce que le boeuf soit tendre.",
+          "Remuez de temps en temps et ajoutez de l'eau ou du bouillon si nécessaire pour éviter que le ragoût ne sèche."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Boeuf",
+        "image": "https://i.ibb.co/wJfxyGn/beef.png",
+        "quantity": "1 kg"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Carottes",
+        "image": "https://i.ibb.co/6828rJG/carrot.png",
+        "quantity": "3"
+      },
+      {
+        "name": "Champignons",
+        "image": "https://i.ibb.co/M9c80FD/mushroom.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Vin rouge",
+        "image": "https://i.ibb.co/r5zXsWb/vin-rouge.png",
+        "quantity": "750ml"
+      },
+      {
+        "name": "Bouquet garni",
+        "image": "https://i.ibb.co/jM6rFsz/bouquet-garni.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Farine",
+        "image": "https://i.ibb.co/ypG9trh/farine.png",
+        "quantity": "2 cuillères à soupe"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Salade de Quinoa",
+    "totalTime": 25,
+    "rating": 4.3,
+    "image": "https://i.ibb.co/5GXwSwh/salade-de-quinoa.png",
+    "imageType": "jpg",
+    "description": "Une salade fraîche et saine avec du quinoa et des légumes.",
+    "kcal": 250,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Cuire le quinoa",
+        "instructions": [
+          "Faites cuire le quinoa dans une casserole d'eau bouillante selon les instructions du paquet, généralement environ 15 minutes.",
+          "Égouttez et laissez refroidir."
+        ]
+      },
+      {
+        "title": "Préparer les légumes",
+        "instructions": [
+          "Coupez les tomates en dés.",
+          "Épluchez et coupez le concombre en dés.",
+          "Émincez l'oignon rouge.",
+          "Coupez les olives noires en rondelles."
+        ]
+      },
+      {
+        "title": "Assembler la salade",
+        "instructions": [
+          "Dans un saladier, mélangez le quinoa refroidi avec les tomates, le concombre, les oignons rouges, et les olives noires.",
+          "Ajoutez la feta émiettée.",
+          "Assaisonnez avec le jus de citron, l'huile d'olive, le sel et le poivre.",
+          "Mélangez bien le tout."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Quinoa",
+        "image": "https://i.ibb.co/9srM2pb/quinoa.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Tomates",
+        "image": "https://i.ibb.co/xsvbwNd/tomatoes.png",
+        "quantity": "3"
+      },
+      {
+        "name": "Concombre",
+        "image": "https://i.ibb.co/XDWTG9d/cucumber.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Olives noires",
+        "image": "https://i.ibb.co/jf6LgSM/olive-noire.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Oignons rouges",
+        "image": "https://i.ibb.co/GtTGTQd/shallot.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Feta",
+        "image": "https://i.ibb.co/sw0gTvY/feta-cheese.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Citron",
+        "image": "https://i.ibb.co/XkYVJy4/citron-jaune.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "30ml"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/Nxm8vwW/saladier-copie.png",
+        "name": "Saladier"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Paella",
+    "totalTime": 60,
+    "rating": 4.5,
+    "image": "https://i.ibb.co/bRLrtnw/paella.png",
+    "imageType": "jpg",
+    "description": "Un plat espagnol à base de riz, de fruits de mer et de légumes.",
+    "kcal": 400,
+    "difficulty": "Moyen",
+    "step": [
+      {
+        "title": "Préparer les ingrédients",
+        "instructions": [
+          "Cuire le riz",
+          "Préparer les fruits de mer",
+          "Couper les légumes"
+        ]
+      },
+      {
+        "title": "Faire revenir les légumes",
+        "instructions": [
+          "Dans une poêle à paella, faites revenir les poivrons, les oignons et l'ail dans l'huile d'olive."
+        ]
+      },
+      {
+        "title": "Ajouter les fruits de mer",
+        "instructions": [
+          "Ajoutez les fruits de mer et faites-les cuire jusqu'à ce qu'ils soient bien dorés."
+        ]
+      },
+      {
+        "title": "Ajouter le riz et le bouillon",
+        "instructions": [
+          "Ajoutez le riz cuit dans la poêle.",
+          "Versez le bouillon de poisson dans la poêle.",
+          "Laissez mijoter jusqu'à ce que le riz ait absorbé tout le liquide et soit tendre."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Riz",
+        "image": "https://i.ibb.co/4sYmVLK/rice.png",
+        "quantity": "300g"
+      },
+      {
+        "name": "Fruits de mer",
+        "image": "https://i.ibb.co/8Y8mnpS/fruits-de-mer.png",
+        "quantity": "500g"
+      },
+      {
+        "name": "Tomates",
+        "image": "https://i.ibb.co/xsvbwNd/tomatoes.png",
+        "quantity": "3"
+      },
+      {
+        "name": "Poivrons",
+        "image": "https://i.ibb.co/JtS7qYg/bell-pepper.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Safran",
+        "image": "https://i.ibb.co/rF9Z2v1/saffran.png",
+        "quantity": "1 pincée"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "50ml"
+      },
+      {
+        "name": "Bouillon de poisson",
+        "image": "https://i.ibb.co/y0YydZq/cube-bouillon-poisson.png",
+        "quantity": "1 litre"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Poêle à paella"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Moules Marinières",
+    "totalTime": 30,
+    "rating": 4.6,
+    "image": "https://i.ibb.co/SxrP2R3/moules-marini-res.png",
+    "imageType": "jpg",
+    "description": "Un plat de moules cuites dans du vin blanc avec des échalotes et du persil.",
+    "kcal": 350,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Nettoyer les moules",
+        "instructions": [
+          "Rincez les moules sous l'eau froide et retirez les barbes en les tirant doucement.",
+          "Éliminez les moules ouvertes qui ne se ferment pas lorsqu'on les tapote."
+        ]
+      },
+      {
+        "title": "Faire revenir les échalotes",
+        "instructions": [
+          "Émincez les échalotes et l'ail.",
+          "Dans une grande casserole, faites fondre le beurre à feu moyen.",
+          "Ajoutez les échalotes et l'ail, et faites revenir jusqu'à ce qu'ils soient translucides."
+        ]
+      },
+      {
+        "title": "Ajouter les moules et le vin blanc",
+        "instructions": [
+          "Ajoutez les moules dans la casserole et versez le vin blanc.",
+          "Assaisonnez avec du sel et du poivre à votre goût."
+        ]
+      },
+      {
+        "title": "Cuire jusqu'à ouverture des moules",
+        "instructions": [
+          "Couvrez la casserole et laissez cuire à feu moyen-élevé pendant environ 5 à 7 minutes, en secouant la casserole de temps en temps, jusqu'à ce que toutes les moules soient ouvertes.",
+          "Hachez le persil et ajoutez-le aux moules avant de servir."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Moules",
+        "image": "https://i.ibb.co/sCr1GBs/moules.png",
+        "quantity": "1 kg"
+      },
+      {
+        "name": "Vin blanc",
+        "image": "https://i.ibb.co/DC0PvKx/vin-blanc.png",
+        "quantity": "200ml"
+      },
+      {
+        "name": "Échalotes",
+        "image": "https://i.ibb.co/HXdsBCg/echalote.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Persil",
+        "image": "https://i.ibb.co/q7M2ByN/persil.png",
+        "quantity": "1 bouquet"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Rillettes de Saumon",
+    "totalTime": 20,
+    "rating": 4.3,
+    "image": "https://i.ibb.co/L6RvRC1/rillettes-de-saumon.png",
+    "imageType": "jpg",
+    "description": "Une préparation à tartiner à base de saumon frais et fumé.",
+    "kcal": 300,
+    "difficulty": "Facile",
+    "step": [
+      {
+        "title": "Cuire le saumon frais",
+        "instructions": [
+          "Faites cuire le saumon frais dans une casserole d'eau bouillante pendant environ 10 minutes ou jusqu'à ce qu'il soit bien cuit.",
+          "Égouttez et laissez refroidir."
+        ]
+      },
+      {
+        "title": "Mélanger avec le saumon fumé et la crème",
+        "instructions": [
+          "Effeuillez le saumon frais cuit dans un bol.",
+          "Ajoutez le saumon fumé coupé en petits morceaux.",
+          "Incorporez la crème fraîche."
+        ]
+      },
+      {
+        "title": "Assaisonner et servir",
+        "instructions": [
+          "Hachez finement le persil et la ciboulette, puis ajoutez-les au mélange.",
+          "Assaisonnez avec du sel, du poivre et le jus de citron.",
+          "Mélangez bien tous les ingrédients jusqu'à obtenir une texture homogène."
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "name": "Saumon frais",
+        "image": "https://i.ibb.co/mJc5rdJ/salmon.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Saumon fumé",
+        "image": "https://i.ibb.co/QkQm4C3/saumon-fumee-tranches.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "100ml"
+      },
+      {
+        "name": "Persil",
+        "image": "https://i.ibb.co/q7M2ByN/persil.png",
+        "quantity": "1 bouquet"
+      },
+      {
+        "name": "Ciboulette",
+        "image": "https://i.ibb.co/1z1PF9T/ciboulette.png",
+        "quantity": "1 bouquet"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Jus de citron",
+        "image": "https://i.ibb.co/XkYVJy4/citron-jaune.png",
+        "quantity": "1 cs"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2373 @@
+[
+  {
+    "title": "Spaghetti Carbonara",
+    "totalTime": 25,
+    "rating": 4.2,
+    "image": "https://i.ibb.co/7VZn6PG/spaghetticarbonara.png",
+    "imageType": "jpg",
+    "description": "Un classique italien crémeux et savoureux.",
+    "kcal": 600,
+    "difficulty": "Facile",
+    "step": [
+      "Cuire les pâtes",
+      "Faire revenir les lardons",
+      "Mélanger les Oeufs et le parmesan",
+      "Incorporer les pâtes"
+    ],
+    "ingredients": [
+      {
+        "name": "Spaghetti",
+        "image": "https://i.ibb.co/0BRSk8H/pates-spaguetti.png",
+        "quantity": "400g"
+      },
+      {
+        "name": "Lardons",
+        "image": "https://i.ibb.co/sshvs1w/lardon.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Parmesan",
+        "image": "https://i.ibb.co/HDyTcw9/parmesan-cheese.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Oeufs",
+        "image": "https://i.ibb.co/Jq6n3wR/egg.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Omelette aux Champignons",
+    "totalTime": 10,
+    "rating": 4.1,
+    "image": "https://i.ibb.co/PzJXY87/omelettechampi.png",
+    "imageType": "jpg",
+    "description": "Une omelette rapide et facile, parfaite pour le petit-déjeuner ou le dîner.",
+    "kcal": 250,
+    "difficulty": "Facile",
+    "step": [
+      "Battre les Oeufs",
+      "Faire revenir les champignons",
+      "Cuire l'omelette"
+    ],
+    "ingredients": [
+      {
+        "name": "Oeufs",
+        "image": "https://i.ibb.co/Jq6n3wR/egg.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Champignons",
+        "image": "https://i.ibb.co/M9c80FD/mushroom.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "30g"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      },
+      {
+        "image": "",
+        "name": "Fouet"
+      }
+    ]
+  },
+  {
+    "title": "Soupe de Tomates",
+    "totalTime": 30,
+    "rating": 4.3,
+    "image": "https://i.ibb.co/wy97gp0/soupetomate-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Une soupe réconfortante et facile à préparer.",
+    "kcal": 150,
+    "difficulty": "Facile",
+    "step": [
+      "Faire revenir les oignons",
+      "Ajouter les tomates et le bouillon",
+      "Mixer la soupe"
+    ],
+    "ingredients": [
+      {
+        "name": "Tomates",
+        "image": "https://i.ibb.co/xsvbwNd/tomatoes.png",
+        "quantity": "500g"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Bouillon de légumes",
+        "image": "https://i.ibb.co/JxvHBg9/cube-bouillon-legume.png",
+        "quantity": "500ml"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Basilic",
+        "image": "https://i.ibb.co/x27K3Nk/basilic.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Mixeur"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Gratin de Pommes de Terre",
+    "totalTime": 60,
+    "rating": 4.5,
+    "image": "https://i.ibb.co/PZpF17d/gratin-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Un gratin crémeux et délicieux, parfait pour accompagner un plat principal.",
+    "kcal": 400,
+    "difficulty": "Facile",
+    "step": [
+      "Éplucher et trancher les pommes de terre",
+      "Préparer la sauce béchamel",
+      "Cuire au four"
+    ],
+    "ingredients": [
+      {
+        "name": "Pommes de terre",
+        "image": "https://i.ibb.co/CKhbB3q/potato.png",
+        "quantity": "1kg"
+      },
+      {
+        "name": "Lait",
+        "image": "https://i.ibb.co/7QHVn75/lait.png",
+        "quantity": "500ml"
+      },
+      {
+        "name": "Fromage râpé",
+        "image": "https://i.ibb.co/YBZs4T1/fromage-rape.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Farine",
+        "image": "https://i.ibb.co/ypG9trh/farine.png",
+        "quantity": "50g"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/6HSJ64T/plat-a-grattin.png",
+        "name": "Plat à gratin"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "",
+        "name": "Fouet"
+      }
+    ]
+  },
+  {
+    "title": "Poulet Rôti",
+    "totalTime": 90,
+    "rating": 4.6,
+    "image": "https://i.ibb.co/cDzsgrx/pouletroti-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Un poulet rôti juteux et savoureux, parfait pour un repas de famille.",
+    "kcal": 500,
+    "difficulty": "Moyen",
+    "step": ["Préparer le poulet", "Assaisonner", "Rôtir au four"],
+    "ingredients": [
+      {
+        "name": "Poulet",
+        "image": "https://i.ibb.co/7JC2YL9/chicken.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Herbes de Provence",
+        "image": "https://i.ibb.co/2Z7yh32/herbs-of-provence.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "50g"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/FhpkGpw/plat-rotir.png",
+        "name": "Plat à rôtir"
+      },
+      {
+        "image": "https://i.ibb.co/b2JQWR5/pinceau-de-cuisine.png",
+        "name": "Pinceau de cuisine"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Ratatouille",
+    "totalTime": 40,
+    "rating": 4.4,
+    "image": "https://i.ibb.co/FwKxvg4/ratatouille-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Un mélange de légumes mijotés, typique de la cuisine provençale.",
+    "kcal": 200,
+    "difficulty": "Facile",
+    "step": [
+      "Couper les légumes",
+      "Faire revenir les oignons",
+      "Ajouter les légumes et mijoter"
+    ],
+    "ingredients": [
+      {
+        "name": "Courgettes",
+        "image": "https://i.ibb.co/B3t5pCV/zuccichini-courgette.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Aubergines",
+        "image": "https://i.ibb.co/q7cn55Z/eggplant.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Poivrons",
+        "image": "https://i.ibb.co/JtS7qYg/bell-pepper.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Tomates",
+        "image": "https://i.ibb.co/xsvbwNd/tomatoes.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "50ml"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Thym",
+        "image": "https://i.ibb.co/wpzYYLD/thyme.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Basilic",
+        "image": "https://i.ibb.co/x27K3Nk/basilic.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      }
+    ]
+  },
+  {
+    "title": "Quiche Lorraine",
+    "totalTime": 45,
+    "rating": 4.3,
+    "image": "https://i.ibb.co/XppFWT0/quicheloraine-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Une quiche classique avec des lardons et du fromage.",
+    "kcal": 400,
+    "difficulty": "Moyen",
+    "step": [
+      "Préparer la pâte brisée",
+      "Faire revenir les lardons",
+      "Mélanger les Oeufs et la crème",
+      "Cuire au four"
+    ],
+    "ingredients": [
+      {
+        "name": "Lardons",
+        "image": "https://i.ibb.co/sshvs1w/lardon.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Oeufs",
+        "image": "https://i.ibb.co/Jq6n3wR/egg.png",
+        "quantity": "3"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "200ml"
+      },
+      {
+        "name": "Fromage",
+        "image": "https://i.ibb.co/FzdgNRS/fromage.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Pâte brisée",
+        "image": "https://i.ibb.co/g7mqwCp/pate-brisee.png",
+        "quantity": "1"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/nfXrzXW/moule-a-tarte.png",
+        "name": "Moule à tarte"
+      },
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Fouet"
+      }
+    ]
+  },
+  {
+    "title": "Couscous Végétarien",
+    "totalTime": 50,
+    "rating": 4.2,
+    "image": "https://i.ibb.co/Cnd9Lz5/couscous-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Un couscous savoureux avec des légumes variés.",
+    "kcal": 350,
+    "difficulty": "Moyen",
+    "step": ["Préparer les légumes", "Cuire la semoule", "Mélanger et servir"],
+    "ingredients": [
+      {
+        "name": "Courgettes",
+        "image": "https://i.ibb.co/B3t5pCV/zuccichini-courgette.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Aubergines",
+        "image": "https://i.ibb.co/q7cn55Z/eggplant.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Carottes",
+        "image": "https://i.ibb.co/6828rJG/carrot.png",
+        "quantity": "3"
+      },
+      {
+        "name": "Pois chiches",
+        "image": "https://i.ibb.co/V38nWd4/chickpea.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Semoule de couscous",
+        "image": "https://i.ibb.co/mFyLj3X/couscous.png",
+        "quantity": "300g"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "50ml"
+      },
+      {
+        "name": "Thym",
+        "image": "https://i.ibb.co/wpzYYLD/thyme.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Tarte aux Pommes",
+    "totalTime": 60,
+    "rating": 4.5,
+    "image": "https://i.ibb.co/Dw5WQs9/applepie-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Une tarte classique avec des pommes fraîches.",
+    "kcal": 350,
+    "difficulty": "Moyen",
+    "step": [
+      "Préparer la pâte",
+      "Couper les pommes",
+      "Disposer les pommes sur la pâte",
+      "Cuire au four"
+    ],
+    "ingredients": [
+      {
+        "name": "Pommes",
+        "image": "https://i.ibb.co/S7cTkxW/apple.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Pâte brisée",
+        "image": "https://i.ibb.co/g7mqwCp/pate-brisee.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Sucre",
+        "image": "https://i.ibb.co/XjkkbPN/sucre.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Cannelle",
+        "image": "https://i.ibb.co/YNzC4fv/cinnamon.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/nfXrzXW/moule-a-tarte.png",
+        "name": "Moule à tarte"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      }
+    ]
+  },
+  {
+    "title": "Salade Niçoise",
+    "totalTime": 20,
+    "rating": 4.0,
+    "image": "https://i.ibb.co/ZKkY6Gm/saladenic-oise-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Une salade complète avec du thon, des olives, des Oeufs et des haricots verts.",
+    "kcal": 300,
+    "difficulty": "Facile",
+    "step": ["Cuire les Oeufs", "Préparer les légumes", "Assembler la salade"],
+    "ingredients": [
+      {
+        "name": "Oeufs",
+        "image": "https://i.ibb.co/Jq6n3wR/egg.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Haricots verts",
+        "image": "https://i.ibb.co/vPv4dgN/haricot-vert.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Tomates cerises",
+        "image": "https://i.ibb.co/tbf3MB5/tomate-cerise.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Thon en conserve",
+        "image": "https://i.ibb.co/VjbbPf9/thon-en-boite.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Olives noires",
+        "image": "https://i.ibb.co/jf6LgSM/olive-noire.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Vinaigre de vin",
+        "image": "https://i.ibb.co/RgnXNKK/vinegar.png",
+        "quantity": "50ml"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "50ml"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/Nxm8vwW/saladier-copie.png",
+        "name": "Saladier"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Pâtes à la Bolognaise",
+    "totalTime": 45,
+    "rating": 4.4,
+    "image": "https://i.ibb.co/LrPw5vS/patebolo-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Des pâtes classiques avec une sauce à la viande savoureuse.",
+    "kcal": 500,
+    "difficulty": "Moyen",
+    "step": [
+      "Faire revenir les oignons et l'ail",
+      "Ajouter la viande et les tomates",
+      "Cuire les pâtes",
+      "Mélanger et servir"
+    ],
+    "ingredients": [
+      {
+        "name": "Pâtes",
+        "image": "https://i.ibb.co/H2HGNs7/pates-farfalle.png",
+        "quantity": "400g"
+      },
+      {
+        "name": "Boeuf hâché",
+        "image": "https://i.ibb.co/hCN9KRf/steack-hache.png",
+        "quantity": "500g"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Coulis de tomate",
+        "image": "https://i.ibb.co/m0WVb4t/tomato-sauce.png",
+        "quantity": "250g"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Thym",
+        "image": "https://i.ibb.co/wpzYYLD/thyme.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Spatule"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Gâteau au Chocolat",
+    "totalTime": 60,
+    "rating": 4.7,
+    "image": "https://i.ibb.co/swyxwwV/chococake-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Un gâteau moelleux et riche en chocolat, parfait pour les amateurs de dessert.",
+    "kcal": 400,
+    "difficulty": "Moyen",
+    "step": [
+      "Faire fondre le chocolat",
+      "Mélanger les ingrédients",
+      "Cuire au four"
+    ],
+    "ingredients": [
+      {
+        "name": "Chocolat noir",
+        "image": "https://i.ibb.co/0G6C2Zg/chocolate-food.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Oeufs",
+        "image": "https://i.ibb.co/Jq6n3wR/egg.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Sucre",
+        "image": "https://i.ibb.co/XjkkbPN/sucre.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Farine",
+        "image": "https://i.ibb.co/ypG9trh/farine.png",
+        "quantity": "50g"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/z554KNS/moule-gateau.png",
+        "name": "Moule à gâteau"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      },
+      {
+        "image": "https://i.ibb.co/XpKww5K/fouet-lectrique.png",
+        "name": "Fouet électrique"
+      }
+    ]
+  },
+  {
+    "title": "Poisson Grillé",
+    "totalTime": 30,
+    "rating": 4.2,
+    "image": "https://i.ibb.co/9n5srCc/fishgrill-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Un plat simple et sain avec du poisson frais.",
+    "kcal": 300,
+    "difficulty": "Facile",
+    "step": ["Préparer le poisson", "Assaisonner", "Griller le poisson"],
+    "ingredients": [
+      {
+        "name": "Poisson",
+        "image": "https://i.ibb.co/PDvn5Rc/poisson.png",
+        "quantity": "2 filets"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "20ml"
+      },
+      {
+        "name": "Herbes de Provence",
+        "image": "https://i.ibb.co/2Z7yh32/herbs-of-provence.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/YXcg741/grill.png",
+        "name": "Grill"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Pizza Margherita",
+    "totalTime": 30,
+    "rating": 4.4,
+    "image": "https://i.ibb.co/RYYRzHY/pizzamargue-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Une pizza simple et délicieuse avec de la mozzarella et du basilic frais.",
+    "kcal": 400,
+    "difficulty": "Moyen",
+    "step": [
+      "Préparer la pâte",
+      "Ajouter la sauce et la mozzarella",
+      "Cuire au four"
+    ],
+    "ingredients": [
+      {
+        "name": "Pâte à pizza",
+        "image": "https://i.ibb.co/f9rbSGt/pate-pizza.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Sauce tomate",
+        "image": "https://i.ibb.co/m0WVb4t/tomato-sauce.png",
+        "quantity": "200ml"
+      },
+      {
+        "name": "Mozzarella",
+        "image": "https://i.ibb.co/rbXLVhd/mozzarella-cheese.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Basilic",
+        "image": "https://i.ibb.co/x27K3Nk/basilic.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "20ml"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/WyGgTvm/plaque-de-cuisson.png",
+        "name": "Plaque de cuisson"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Crevettes à l'Ail",
+    "totalTime": 15,
+    "rating": 4.3,
+    "image": "https://i.ibb.co/k8G624J/crevetteail-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Des crevettes sautées avec une touche d'ail et de citron.",
+    "kcal": 200,
+    "difficulty": "Facile",
+    "step": [
+      "Faire revenir l'ail",
+      "Ajouter les crevettes",
+      "Assaisonner et servir"
+    ],
+    "ingredients": [
+      {
+        "name": "Crevettes",
+        "image": "https://i.ibb.co/Xt8ch4d/shrimp.png",
+        "quantity": "300g"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "3 gousses"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "30ml"
+      },
+      {
+        "name": "Citron",
+        "image": "https://i.ibb.co/XkYVJy4/citron-jaune.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Persil",
+        "image": "https://i.ibb.co/q7M2ByN/persil.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "https://i.ibb.co/SnMT8Vz/presse-ail.png",
+        "name": "Presse-ail"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Soupe à l'Oignon",
+    "totalTime": 50,
+    "rating": 4.6,
+    "image": "https://i.ibb.co/5MZGSyZ/soupeoignon-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Une soupe riche et réconfortante avec des oignons caramélisés et du fromage gratiné.",
+    "kcal": 250,
+    "difficulty": "Moyen",
+    "step": [
+      "Faire caraméliser les oignons",
+      "Ajouter le bouillon",
+      "Gratiner avec du fromage"
+    ],
+    "ingredients": [
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Farine",
+        "image": "https://i.ibb.co/ypG9trh/farine.png",
+        "quantity": "2 cuillères à soupe"
+      },
+      {
+        "name": "Bouillon de Boeuf",
+        "image": "https://i.ibb.co/gdskYBn/cube-bouillon-poulet.png",
+        "quantity": "1 litre"
+      },
+      {
+        "name": "Fromage",
+        "image": "https://i.ibb.co/FzdgNRS/fromage.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "20ml"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Pain",
+        "image": "https://i.ibb.co/BVqyqzR/baguette.png",
+        "quantity": "200g"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Spatule"
+      }
+    ]
+  },
+  {
+    "title": "Riz Pilaf",
+    "totalTime": 30,
+    "rating": 4.1,
+    "image": "https://i.ibb.co/kqxfPBX/rizpilaf-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Un riz aromatisé avec des légumes et des épices.",
+    "kcal": 350,
+    "difficulty": "Facile",
+    "step": [
+      "Faire revenir les oignons et les épices",
+      "Ajouter le riz et le bouillon",
+      "Cuire à feu doux"
+    ],
+    "ingredients": [
+      {
+        "name": "Riz",
+        "image": "https://i.ibb.co/4sYmVLK/rice.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Bouillon de légumes",
+        "image": "https://i.ibb.co/JxvHBg9/cube-bouillon-legume.png",
+        "quantity": "500ml"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "20ml"
+      },
+      {
+        "name": "Carottes",
+        "image": "https://i.ibb.co/6828rJG/carrot.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Cumin",
+        "image": "https://i.ibb.co/KDvrsb0/cumin.png",
+        "quantity": "1 cuillère à café"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Poulet au Curry",
+    "totalTime": 40,
+    "rating": 4.5,
+    "image": "https://i.ibb.co/TRyCcbH/pouletcurry-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Poulet tendre mijoté dans une sauce au curry épicée.",
+    "kcal": 450,
+    "difficulty": "Moyen",
+    "step": [
+      "Faire revenir le poulet",
+      "Ajouter les épices et la crème",
+      "Laisser mijoter"
+    ],
+    "ingredients": [
+      {
+        "name": "Poulet",
+        "image": "https://i.ibb.co/7JC2YL9/chicken.png",
+        "quantity": "500g"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Curry",
+        "image": "https://i.ibb.co/ByJhd0R/curry.png",
+        "quantity": "2 cuillères à soupe"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "200ml"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "30ml"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Lasagnes aux Épinards",
+    "totalTime": 60,
+    "rating": 4.6,
+    "image": "https://i.ibb.co/GTrYPSc/lasagnepinard-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Lasagnes végétariennes avec des épinards et du fromage.",
+    "kcal": 600,
+    "difficulty": "Moyen",
+    "step": [
+      "Préparer les épinards",
+      "Assembler les lasagnes",
+      "Cuire au four"
+    ],
+    "ingredients": [
+      {
+        "name": "Feuilles de lasagnes",
+        "image": "https://i.ibb.co/JqmgHw4/lasagne.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Épinards",
+        "image": "https://i.ibb.co/PrRzWcf/spinach.png",
+        "quantity": "300g"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "200ml"
+      },
+      {
+        "name": "Fromage râpé",
+        "image": "https://i.ibb.co/YBZs4T1/fromage-rape.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "20ml"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/6HSJ64T/plat-a-grattin.png",
+        "name": "Plat à gratin"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Spatule"
+      }
+    ]
+  },
+  {
+    "title": "Gratin Dauphinois",
+    "totalTime": 70,
+    "rating": 4.3,
+    "image": "https://i.ibb.co/bBVrCxk/gratindauphinois-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Un plat traditionnel de pommes de terre à la crème.",
+    "kcal": 400,
+    "difficulty": "Moyen",
+    "step": [
+      "Éplucher et trancher les pommes de terre",
+      "Faire chauffer la crème",
+      "Cuire au four"
+    ],
+    "ingredients": [
+      {
+        "name": "Pommes de terre",
+        "image": "https://i.ibb.co/CKhbB3q/potato.png",
+        "quantity": "1kg"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "500ml"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Fromage râpé",
+        "image": "https://i.ibb.co/YBZs4T1/fromage-rape.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Muscade",
+        "image": "https://i.ibb.co/9NtbmRp/nutmeg-muscade.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/6HSJ64T/plat-a-grattin.png",
+        "name": "Plat à gratin"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Tacos au Poulet",
+    "totalTime": 25,
+    "rating": 4.1,
+    "image": "https://i.ibb.co/3R5zMh2/tacospoulet-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Des tacos délicieux garnis de poulet épicé, de légumes frais et de fromage.",
+    "kcal": 350,
+    "difficulty": "Facile",
+    "step": [
+      "Préparer le poulet",
+      "Chauffer les tortillas",
+      "Assembler les tacos"
+    ],
+    "ingredients": [
+      {
+        "name": "Poulet",
+        "image": "https://i.ibb.co/7JC2YL9/chicken.png",
+        "quantity": "300g"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "20ml"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Tomates",
+        "image": "https://i.ibb.co/xsvbwNd/tomatoes.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Fromage râpé",
+        "image": "https://i.ibb.co/YBZs4T1/fromage-rape.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Tortillas",
+        "image": "https://i.ibb.co/Pgvh1zc/tortillas.png",
+        "quantity": "8"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Coriandre",
+        "image": "https://i.ibb.co/NWLw7DD/coriander.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Salade César",
+    "totalTime": 20,
+    "rating": 4.2,
+    "image": "https://i.ibb.co/552Qtpn/saladecesar-removebg-preview.png",
+    "imageType": "jpg",
+    "description": "Une salade croquante avec du poulet, des croûtons et une sauce crémeuse.",
+    "kcal": 300,
+    "difficulty": "Facile",
+    "step": [
+      "Préparer le poulet",
+      "Mélanger les ingrédients",
+      "Servir avec la sauce"
+    ],
+    "ingredients": [
+      {
+        "name": "Poulet",
+        "image": "https://i.ibb.co/7JC2YL9/chicken.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Salade romaine",
+        "image": "https://i.ibb.co/xhyJSRP/lettuce.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Croûtons",
+        "image": "https://i.ibb.co/sgxw0pP/croutons.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "100ml"
+      },
+      {
+        "name": "Parmesan",
+        "image": "https://i.ibb.co/HDyTcw9/parmesan-cheese.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "1 gousse"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Bol"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "https://i.ibb.co/Nxm8vwW/saladier-copie.png",
+        "name": "Saladier"
+      }
+    ]
+  },
+  {
+    "title": "Croque-Monsieur",
+    "totalTime": 20,
+    "rating": 4.0,
+    "image": "https://i.ibb.co/cTxsnrZ/CroqueM.png",
+    "imageType": "jpg",
+    "description": "Un sandwich chaud au jambon et fromage, grillé à la perfection.",
+    "kcal": 350,
+    "difficulty": "Facile",
+    "step": [
+      "Beurrer le pain",
+      "Ajouter le jambon et le fromage",
+      "Griller dans une poêle"
+    ],
+    "ingredients": [
+      {
+        "name": "Pain de mie",
+        "image": "https://i.ibb.co/yd92vXV/pain-de-mie.png",
+        "quantity": "4 tranches"
+      },
+      {
+        "name": "Jambon",
+        "image": "https://i.ibb.co/xMRnKgJ/jambon-blanc.png",
+        "quantity": "2 tranches"
+      },
+      {
+        "name": "Fromage râpé",
+        "image": "https://i.ibb.co/YBZs4T1/fromage-rape.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "20g"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "https://i.ibb.co/4mWHTfD/grille-pain.png",
+        "name": "Grille-pain"
+      },
+      {
+        "image": "",
+        "name": "Spatule"
+      }
+    ]
+  },
+  {
+    "title": "Poivrons Farcis",
+    "totalTime": 40,
+    "rating": 4.3,
+    "image": "https://i.ibb.co/HrKpDSw/poivrons-farcis.png",
+    "imageType": "jpg",
+    "description": "Des poivrons colorés farcis d'un mélange savoureux de riz et de légumes.",
+    "kcal": 300,
+    "difficulty": "Moyen",
+    "step": [
+      "Préparer les poivrons",
+      "Faire revenir les légumes",
+      "Farcir les poivrons et cuire au four"
+    ],
+    "ingredients": [
+      {
+        "name": "Poivrons",
+        "image": "https://i.ibb.co/JtS7qYg/bell-pepper.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Riz",
+        "image": "https://i.ibb.co/4sYmVLK/rice.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Tomates",
+        "image": "https://i.ibb.co/xsvbwNd/tomatoes.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "20ml"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Herbes de Provence",
+        "image": "https://i.ibb.co/2Z7yh32/herbs-of-provence.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/6HSJ64T/plat-a-grattin.png",
+        "name": "Plat à gratin"
+      },
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Gratin de Courgettes",
+    "totalTime": 35,
+    "rating": 4.2,
+    "image": "https://i.ibb.co/YcP9rgX/grattin-de-courgettes.png",
+    "imageType": "jpg",
+    "description": "Un gratin crémeux aux courgettes et au fromage.",
+    "kcal": 200,
+    "difficulty": "Facile",
+    "step": [
+      "Trancher les courgettes",
+      "Faire revenir les courgettes",
+      "Assembler le gratin",
+      "Cuire au four"
+    ],
+    "ingredients": [
+      {
+        "name": "Courgettes",
+        "image": "https://i.ibb.co/B3t5pCV/zuccichini-courgette.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "200ml"
+      },
+      {
+        "name": "Fromage râpé",
+        "image": "https://i.ibb.co/YBZs4T1/fromage-rape.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "30g"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/6HSJ64T/plat-a-grattin.png",
+        "name": "Plat à gratin"
+      },
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Poulet Basquaise",
+    "totalTime": 50,
+    "rating": 4.5,
+    "image": "https://i.ibb.co/VMvgt1F/poulet-basquaise.png",
+    "imageType": "jpg",
+    "description": "Un plat traditionnel basque avec du poulet, des poivrons et des tomates.",
+    "kcal": 350,
+    "difficulty": "Moyen",
+    "step": [
+      "Faire revenir le poulet",
+      "Ajouter les légumes",
+      "Laisser mijoter"
+    ],
+    "ingredients": [
+      {
+        "name": "Poulet",
+        "image": "https://i.ibb.co/7JC2YL9/chicken.png",
+        "quantity": "500g"
+      },
+      {
+        "name": "Poivrons",
+        "image": "https://i.ibb.co/JtS7qYg/bell-pepper.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Tomates",
+        "image": "https://i.ibb.co/xsvbwNd/tomatoes.png",
+        "quantity": "3"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "30ml"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Herbes de Provence",
+        "image": "https://i.ibb.co/2Z7yh32/herbs-of-provence.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Clafoutis aux Cerises",
+    "totalTime": 45,
+    "rating": 4.4,
+    "image": "https://i.ibb.co/pPz8CM6/clafoutis-aux-cerises.png",
+    "imageType": "jpg",
+    "description": "Un dessert traditionnel français à base de cerises et de pâte.",
+    "kcal": 300,
+    "difficulty": "Facile",
+    "step": ["Préparer la pâte", "Ajouter les cerises", "Cuire au four"],
+    "ingredients": [
+      {
+        "name": "Cerises",
+        "image": "https://i.ibb.co/Jqwq6zX/cerise.png",
+        "quantity": "500g"
+      },
+      {
+        "name": "Oeufs",
+        "image": "https://i.ibb.co/Jq6n3wR/egg.png",
+        "quantity": "4"
+      },
+      {
+        "name": "Farine",
+        "image": "https://i.ibb.co/ypG9trh/farine.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Sucre",
+        "image": "https://i.ibb.co/XjkkbPN/sucre.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "200ml"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "30g"
+      },
+      {
+        "name": "Extrait de vanille",
+        "image": "https://i.ibb.co/0rN7bc1/vanilla.png",
+        "quantity": "1 cuillère à café"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "1 pincée"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/6HSJ64T/plat-a-grattin.png",
+        "name": "Plat à gratin"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Tarte Tatin",
+    "totalTime": 60,
+    "rating": 4.7,
+    "image": "https://i.ibb.co/Db1g0NL/tarte-tatin.png",
+    "imageType": "jpg",
+    "description": "Une tarte renversée aux pommes caramélisées.",
+    "kcal": 400,
+    "difficulty": "Moyen",
+    "step": ["Préparer les pommes", "Caraméliser les pommes", "Cuire la tarte"],
+    "ingredients": [
+      {
+        "name": "Pommes",
+        "image": "https://i.ibb.co/S7cTkxW/apple.png",
+        "quantity": "6"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Sucre",
+        "image": "https://i.ibb.co/XjkkbPN/sucre.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Pâte feuilletée",
+        "image": "https://i.ibb.co/MMVWhdt/pate-feuilletee.png",
+        "quantity": "1 rouleau"
+      },
+      {
+        "name": "Cannelle",
+        "image": "https://i.ibb.co/YNzC4fv/cinnamon.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Extrait de vanille",
+        "image": "https://i.ibb.co/0rN7bc1/vanilla.png",
+        "quantity": "1 cuillère à café"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/nfXrzXW/moule-a-tarte.png",
+        "name": "Moule à tarte"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Soupe de Potiron",
+    "totalTime": 30,
+    "rating": 4.3,
+    "image": "https://i.ibb.co/VWWTsnP/soupe-de-potimaron.png",
+    "imageType": "jpg",
+    "description": "Une soupe crémeuse et réconfortante à base de potiron.",
+    "kcal": 150,
+    "difficulty": "Facile",
+    "step": [
+      "Couper le potiron",
+      "Faire revenir les oignons",
+      "Ajouter le potiron et le bouillon",
+      "Mixer"
+    ],
+    "ingredients": [
+      {
+        "name": "Potiron",
+        "image": "https://i.ibb.co/yqp65XK/potiron.png",
+        "quantity": "1 kg"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Bouillon de légumes",
+        "image": "https://i.ibb.co/JxvHBg9/cube-bouillon-legume.png",
+        "quantity": "1 litre"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "100ml"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "20g"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Mixeur"
+      }
+    ]
+  },
+  {
+    "title": "Blanquette de Veau",
+    "totalTime": 90,
+    "rating": 4.7,
+    "image": "https://i.ibb.co/pKSYtmD/blanquette-de-veau.png",
+    "imageType": "jpg",
+    "description": "Un plat classique de la cuisine française, riche et crémeux.",
+    "kcal": 500,
+    "difficulty": "Moyen",
+    "step": [
+      "Faire revenir le veau",
+      "Ajouter les légumes et le bouillon",
+      "Laisser mijoter",
+      "Ajouter la crème"
+    ],
+    "ingredients": [
+      {
+        "name": "Veau",
+        "image": "https://i.ibb.co/k6j7wtn/veau.png",
+        "quantity": "700g"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Carottes",
+        "image": "https://i.ibb.co/6828rJG/carrot.png",
+        "quantity": "3"
+      },
+      {
+        "name": "Champignons",
+        "image": "https://i.ibb.co/M9c80FD/mushroom.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Bouillon de volaille",
+        "image": "https://i.ibb.co/gdskYBn/cube-bouillon-poulet.png",
+        "quantity": "1 litre"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "200ml"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Laurier",
+        "image": "https://i.ibb.co/JnDhNDY/bay-leaf-laurier.png",
+        "quantity": "2 feuilles"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Boeuf Bourguignon",
+    "totalTime": 180,
+    "rating": 4.7,
+    "image": "https://i.ibb.co/FhDBVP5/boeuf-bourguignon.png",
+    "imageType": "jpg",
+    "description": "Un ragoût de Boeuf mijoté dans du vin rouge avec des légumes.",
+    "kcal": 600,
+    "difficulty": "Moyen",
+    "step": [
+      "Faire revenir le Boeuf",
+      "Ajouter les légumes et le vin",
+      "Laisser mijoter"
+    ],
+    "ingredients": [
+      {
+        "name": "Boeuf",
+        "image": "https://i.ibb.co/wJfxyGn/beef.png",
+        "quantity": "1 kg"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Carottes",
+        "image": "https://i.ibb.co/6828rJG/carrot.png",
+        "quantity": "3"
+      },
+      {
+        "name": "Champignons",
+        "image": "https://i.ibb.co/M9c80FD/mushroom.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Vin rouge",
+        "image": "https://i.ibb.co/r5zXsWb/vin-rouge.png",
+        "quantity": "750ml"
+      },
+      {
+        "name": "Bouquet garni",
+        "image": "https://i.ibb.co/jM6rFsz/bouquet-garni.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Farine",
+        "image": "https://i.ibb.co/ypG9trh/farine.png",
+        "quantity": "2 cuillères à soupe"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/cr4FL6Q/po-le.png",
+        "name": "Poêle"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Salade de Quinoa",
+    "totalTime": 25,
+    "rating": 4.3,
+    "image": "https://i.ibb.co/5GXwSwh/salade-de-quinoa.png",
+    "imageType": "jpg",
+    "description": "Une salade fraîche et saine avec du quinoa et des légumes.",
+    "kcal": 250,
+    "difficulty": "Facile",
+    "step": ["Cuire le quinoa", "Préparer les légumes", "Assembler la salade"],
+    "ingredients": [
+      {
+        "name": "Quinoa",
+        "image": "https://i.ibb.co/9srM2pb/quinoa.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Tomates",
+        "image": "https://i.ibb.co/xsvbwNd/tomatoes.png",
+        "quantity": "3"
+      },
+      {
+        "name": "Concombre",
+        "image": "https://i.ibb.co/XDWTG9d/cucumber.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Olives noires",
+        "image": "https://i.ibb.co/jf6LgSM/olive-noire.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Oignons rouges",
+        "image": "https://i.ibb.co/GtTGTQd/shallot.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Feta",
+        "image": "https://i.ibb.co/sw0gTvY/feta-cheese.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Citron",
+        "image": "https://i.ibb.co/XkYVJy4/citron-jaune.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "30ml"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "https://i.ibb.co/Nxm8vwW/saladier-copie.png",
+        "name": "Saladier"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Paella",
+    "totalTime": 60,
+    "rating": 4.5,
+    "image": "https://i.ibb.co/bRLrtnw/paella.png",
+    "imageType": "jpg",
+    "description": "Un plat espagnol à base de riz, de fruits de mer et de légumes.",
+    "kcal": 400,
+    "difficulty": "Moyen",
+    "step": [
+      "Préparer les ingrédients",
+      "Cuire les fruits de mer",
+      "Ajouter le riz et le bouillon",
+      "Laisser mijoter"
+    ],
+    "ingredients": [
+      {
+        "name": "Riz",
+        "image": "https://i.ibb.co/4sYmVLK/rice.png",
+        "quantity": "300g"
+      },
+      {
+        "name": "Fruits de mer",
+        "image": "https://i.ibb.co/8Y8mnpS/fruits-de-mer.png",
+        "quantity": "500g"
+      },
+      {
+        "name": "Tomates",
+        "image": "https://i.ibb.co/xsvbwNd/tomatoes.png",
+        "quantity": "3"
+      },
+      {
+        "name": "Poivrons",
+        "image": "https://i.ibb.co/JtS7qYg/bell-pepper.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Oignons",
+        "image": "https://i.ibb.co/MZS5MmS/onion.png",
+        "quantity": "1"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Safran",
+        "image": "https://i.ibb.co/rF9Z2v1/saffran.png",
+        "quantity": "1 pincée"
+      },
+      {
+        "name": "Huile d'olive",
+        "image": "https://i.ibb.co/LNKqpKD/olive-oil.png",
+        "quantity": "50ml"
+      },
+      {
+        "name": "Bouillon de poisson",
+        "image": "https://i.ibb.co/y0YydZq/cube-bouillon-poisson.png",
+        "quantity": "1 litre"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Poêle à paella"
+      },
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      }
+    ]
+  },
+  {
+    "title": "Moules Marinières",
+    "totalTime": 30,
+    "rating": 4.6,
+    "image": "https://i.ibb.co/SxrP2R3/moules-marini-res.png",
+    "imageType": "jpg",
+    "description": "Un plat de moules cuites dans du vin blanc avec des échalotes et du persil.",
+    "kcal": 350,
+    "difficulty": "Facile",
+    "step": [
+      "Nettoyer les moules",
+      "Faire revenir les échalotes",
+      "Ajouter les moules et le vin blanc",
+      "Cuire jusqu'à ouverture des moules"
+    ],
+    "ingredients": [
+      {
+        "name": "Moules",
+        "image": "https://i.ibb.co/sCr1GBs/moules.png",
+        "quantity": "1 kg"
+      },
+      {
+        "name": "Vin blanc",
+        "image": "https://i.ibb.co/DC0PvKx/vin-blanc.png",
+        "quantity": "200ml"
+      },
+      {
+        "name": "Échalotes",
+        "image": "https://i.ibb.co/HXdsBCg/echalote.png",
+        "quantity": "2"
+      },
+      {
+        "name": "Ail",
+        "image": "https://i.ibb.co/HKzGVHP/garlic.png",
+        "quantity": "2 gousses"
+      },
+      {
+        "name": "Persil",
+        "image": "https://i.ibb.co/q7M2ByN/persil.png",
+        "quantity": "1 bouquet"
+      },
+      {
+        "name": "Beurre",
+        "image": "https://i.ibb.co/vzWKzRs/butter.png",
+        "quantity": "50g"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  },
+  {
+    "title": "Rillettes de Saumon",
+    "totalTime": 20,
+    "rating": 4.3,
+    "image": "https://i.ibb.co/L6RvRC1/rillettes-de-saumon.png",
+    "imageType": "jpg",
+    "description": "Une préparation à tartiner à base de saumon frais et fumé.",
+    "kcal": 300,
+    "difficulty": "Facile",
+    "step": [
+      "Cuire le saumon frais",
+      "Mélanger avec le saumon fumé et la crème",
+      "Assaisonner et servir"
+    ],
+    "ingredients": [
+      {
+        "name": "Saumon frais",
+        "image": "https://i.ibb.co/mJc5rdJ/salmon.png",
+        "quantity": "200g"
+      },
+      {
+        "name": "Saumon fumé",
+        "image": "https://i.ibb.co/QkQm4C3/saumon-fumee-tranches.png",
+        "quantity": "100g"
+      },
+      {
+        "name": "Crème fraîche",
+        "image": "https://i.ibb.co/Jr05108/creme-fraiche.png",
+        "quantity": "100ml"
+      },
+      {
+        "name": "Persil",
+        "image": "https://i.ibb.co/q7M2ByN/persil.png",
+        "quantity": "1 bouquet"
+      },
+      {
+        "name": "Ciboulette",
+        "image": "https://i.ibb.co/1z1PF9T/ciboulette.png",
+        "quantity": "1 bouquet"
+      },
+      {
+        "name": "Sel",
+        "image": "https://i.ibb.co/bHdzZyC/salt.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Poivre",
+        "image": "https://i.ibb.co/JQrfNTL/pepper.png",
+        "quantity": "à goût"
+      },
+      {
+        "name": "Jus de citron",
+        "image": "https://i.ibb.co/XkYVJy4/citron-jaune.png",
+        "quantity": "1 cs"
+      }
+    ],
+    "ustensils": [
+      {
+        "image": "",
+        "name": "Casserole"
+      },
+      {
+        "image": "https://i.ibb.co/CM7fxMN/knife.png",
+        "name": "Couteau"
+      },
+      {
+        "image": "",
+        "name": "Bol"
+      }
+    ]
+  }
+]
